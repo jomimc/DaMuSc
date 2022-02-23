@@ -37,7 +37,7 @@ Guide to decisions made about including / excluding data or sources from the dat
 ### Src/process_csv.py
 
 This can be used as a standalone module, or run from the command line:
->"python Src/process_csv.py"
+> python Src/process_csv.py
 
 There are several options when processing the raw data:
 - "--n_min {n}" :: Set a minimum number of notes in a scale (Default n = 4)
@@ -47,7 +47,7 @@ There are several options when processing the raw data:
 - "--use_all_modes {True/False}" :: Set True to allow all possible scales to be drawn from a single tuning, including all circular permutations, but without skipping notes (Default False)
 
 Here is an example of how you would run with a set of specific parameters:
->"python Src/process_csv.py --n_min 4 --n_max 9 --octave_cutoff 50 --use_specific_modes True --use_all_modes False"
+> python Src/process_csv.py --n_min 4 --n_max 9 --octave_cutoff 50 --use_specific_modes True --use_all_modes False
 
 
 Requirements:
