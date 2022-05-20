@@ -2,8 +2,9 @@
 import numpy as np
 import pandas as pd
 
-
+### Default value for octave cutoff
 OCT_CUT = 50
+
 
 #############################################################################
 ### Functions to be used in reformatting the data
@@ -73,11 +74,11 @@ def extract_scale_using_tonic(ints, tonic, oct_cut):
         elif len(scale):
             scale.append(i + scale[-1])
 
-    if scale[-1] > (1200 - OCT_CUT):
+    if scale[-1] > (1200 - oct_cut):
         yield np.array(scale)
 
 
-def extract_specific_variants(ints, tonic, variants):
+def extract_specific_variants(ints, tonic, variants, oct_cut=OCT_CUT):
     if isinstance(tonic, str):
         tonic = np.array(str_to_ints(tonic), int)
     for v in variants.split(','):
@@ -87,7 +88,7 @@ def extract_specific_variants(ints, tonic, variants):
         for i, t in zip(ints, tonic[:-1]):
             if t == v[0]:
                 if len(scale):
-                    if scale[-1] > (1200 - OCT_CUT):
+                    if scale[-1] > (1200 - oct_cut):
                         yield np.array(scale)
                 scale = [0, i]
             elif len(scale) and t in v:
@@ -156,7 +157,7 @@ def extract_scale_from_measurement(row, oct_cut=OCT_CUT, use_specified_variants=
                 continue
             sum_ints = np.cumsum(ints[i:], dtype=int)
             # If the total sum of ints is less than the cutoff, ignore this entry
-            if sum_ints[-1] < (1200 - OCT_CUT):
+            if sum_ints[-1] < (1200 - oct_cut):
                 break
             # Find the scale degree by finding the note closest to 1200
             idx_oct = np.argmin(np.abs(sum_ints-1200))

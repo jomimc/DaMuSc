@@ -10,7 +10,7 @@ import utils
 ### EQ{N} = N-Tone Equal Temperament
 ### JI  = Just intonation
 ### CHINA = Shi-er-lu
-### The rest are sourced from Rechberger, Herman
+### The rest are sourced from Rechberger, Herman (see Metadata/sources.csv)
 
 PYT_INTS = np.array([0., 90.2, 203.9, 294.1, 407.8, 498.1, 611.7, 702., 792.2, 905., 996.1, 1109.8, 1200.])
 EQ5_INTS = np.linspace(0, 1200, num=6, endpoint=True, dtype=float)
