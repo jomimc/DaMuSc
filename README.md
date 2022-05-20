@@ -1,10 +1,10 @@
-# ScalesDatabase: Cross-cultural database of musical scales
+# DaMuSc: Database of Musical Scales
 
 The purpose of this database is to collect musical scales that are found in societies across the world.
 
 For those who are interested in an exhaustive list of miicrotonal scales for composing, the [Scala database](https://www.huygens-fokker.org/scala/) is more suitable.
 
-At the moment, the majority of the scales are theory scales (scales with exact theoretical values for scale degrees), and measurements of instrument tunings. About 10% of measured data comes from computational analysis of recordings. We hope to add scales as they are measured in ongoing work.
+At the moment, the majority of the scales are theory scales (scales with exact theoretical values for scale degrees), and measurements of instrument tunings. About 10% of measured data comes from computational analysis of recordings. We hope to add scales as they are measured in ongoing work. Anyone interested in contributing scales to DaMuSc should prepare them in the format shown in "example_scales.csv".
 
 ## Scales Data
 
@@ -43,11 +43,11 @@ There are several options when processing the raw data:
 - "--n_min {n}" :: Set a minimum number of notes in a scale (Default n = 4)
 - "--n_max {n}" :: Set a maximum number of notes in a scale (Default n = 9)
 - "--octave_cutoff {O}" :: Set the allowed tolerance for deviations from a perfect octave of 1200 cents (Default O = 50 cents)
-- "--use_specific_modes {True/False}" :: Set True to allow multiple scales to be drawn from a single tuning, if this information is specified by the original source (Default True)
-- "--use_all_modes {True/False}" :: Set True to allow all possible scales to be drawn from a single tuning, including all circular permutations, but without skipping notes (Default False)
+- "--use_specific_variants {True/False}" :: Set True to allow multiple scales to be drawn from a single tuning, if this information is specified by the original source (Default True)
+- "--use_all_variants {True/False}" :: Set True to allow all possible scales to be drawn from a single tuning, including all circular permutations, but without skipping notes (Default False)
 
 Here is an example of how you would run with a set of specific parameters:
-> python Src/process_csv.py --n_min 4 --n_max 9 --octave_cutoff 50 --use_specific_modes True --use_all_modes False
+> python Src/process_csv.py --n_min 4 --n_max 9 --octave_cutoff 50 --use_specific_variants True --use_all_variants False
 
 
 Requirements:
