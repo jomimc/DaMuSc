@@ -9,7 +9,7 @@ OCT_CUT = 50
 ### Functions to be used in reformatting the data
 
 def get_cents_from_ratio(ratio):
-    return 1200.*np.log10(ratio)/np.log10(2)
+    return 1200.*np.log2(ratio)
 
 
 def str_to_ints(st, delim=';'):
@@ -25,18 +25,18 @@ def ints_to_str(i):
 ### Functions for extracting and reformatting the raw data
 
 
-def get_all_modes(scale):
-    adj_ints = np.diff(scale).astype(int)
-    for i in range(len(adj_ints)):
-        yield np.cumsum(np.append([0], np.roll(adj_ints, -i)))
+def get_all_variants(scale):
+    step_ints = np.diff(scale).astype(int)
+    for i in range(len(step_ints)):
+        yield np.cumsum(np.append([0], np.roll(step_ints, -i)))
 
 
 def process_scale(scale):
-    adj_ints = np.diff(scale).astype(int)
-    N = len(adj_ints)
+    step_ints = np.diff(scale).astype(int)
+    N = len(step_ints)
     tonic_ints = scale[1:] - scale[0]
-    all_ints = np.array([i for j in range(len(adj_ints)) for i in np.cumsum(np.roll(adj_ints, j))])
-    return N, adj_ints, tonic_ints, all_ints
+    all_ints = np.array([i for j in range(len(step_ints)) for i in np.cumsum(np.roll(step_ints, j))])
+    return N, step_ints, tonic_ints, all_ints
 
 
 def extract_scale_using_tonic(ints, tonic, oct_cut):
@@ -77,20 +77,20 @@ def extract_scale_using_tonic(ints, tonic, oct_cut):
         yield np.array(scale)
 
 
-def extract_specific_modes(ints, tonic, modes):
+def extract_specific_variants(ints, tonic, variants):
     if isinstance(tonic, str):
         tonic = np.array(str_to_ints(tonic), int)
-    for m in modes.split(','):
-        m = str_to_ints(m)
+    for v in variants.split(','):
+        v = str_to_ints(v)
         extra = 0
         scale = []
         for i, t in zip(ints, tonic[:-1]):
-            if t == m[0]:
+            if t == v[0]:
                 if len(scale):
                     if scale[-1] > (1200 - OCT_CUT):
                         yield np.array(scale)
                 scale = [0, i]
-            elif len(scale) and t in m:
+            elif len(scale) and t in v:
                 scale.append(scale[-1] + i)
             elif len(scale):
                 scale[-1] = scale[-1] + i
@@ -106,7 +106,7 @@ def eval_tonic(tonic):
         return not np.isnan(tonic)
 
 
-def extract_scale_from_measurement(row, oct_cut=OCT_CUT, use_specified_modes=True, use_all_modes=False):
+def extract_scale_from_measurement(row, oct_cut=OCT_CUT, use_specified_variants=True, use_all_variants=False):
     ints = np.array(row.Intervals)
 
     # This column exists only for this instruction;
@@ -125,24 +125,24 @@ def extract_scale_from_measurement(row, oct_cut=OCT_CUT, use_specified_modes=Tru
 
     # STILL CONFUSION OVER THE TERM MODE!!!
     # Some sources provide an instrument tuning, and specify in which
-    # ways subsets of the notes are used as scales ('modes').
-    # In this case, the information is available under the column 'Modes',
+    # ways subsets of the notes are used as scales ('variants').
+    # In this case, the information is available under the column 'Variants',
     # and multiple scales can be extracted from a single tuning.
-    if use_specified_modes:
-        # If row.Modes is not null, this should produce some scales
+    if use_specified_variants:
+        # If row.Variants is not null, this should produce some scales
         try:
-            for scale in extract_specific_modes(ints, row.Tonic, row.Modes):
+            for scale in extract_specific_variants(ints, row.Tonic, row.Variants):
                 yield scale
-            # If not extracting all possible modes, then we can exit now
-            if not use_all_modes:
+            # If not extracting all possible variants, then we can exit now
+            if not use_all_variants:
                 return
         except AttributeError:
             pass
 
     # If the entry includes information on tonality, and if
-    # not using all possible modes, follow the instructions given.
-    # If use_all_mode == True, then this avoids double-counting
-    if not use_all_modes:
+    # not using all possible variants, follow the instructions given.
+    # If use_all_variant == True, then this avoids double-counting
+    if not use_all_variants:
         if eval_tonic(row.Tonic):
             for scale in extract_scale_using_tonic(ints, row.Tonic, oct_cut):
                 if abs(1200 - scale[-1]) <= oct_cut:
@@ -166,10 +166,10 @@ def extract_scale_from_measurement(row, oct_cut=OCT_CUT, use_specified_modes=Tru
             if abs(oct_val - 1200) > OCT_CUT:
                 continue
             
-            # If all modes are not being used (i.e., if each interval is only
+            # If all variants are not being used (i.e., if each interval is only
             # allowed to be counted in a scale once) then start looking
             # for new scales from this index 
-            if not use_all_modes:
+            if not use_all_variants:
                 start_from = idx_oct + i + 1
 
             yield np.array([0.] + list(sum_ints[:idx_oct+1]))
