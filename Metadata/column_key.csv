@@ -1,21 +1,24 @@
-,Column,Description
-0,TheoryID,In 'theory.tsv' a unique ID is given for each scale. This ID should persist when the 'same' scale is used with different tuning systems. In 'measured.tsv' the TheoryID is given if there is a known match between the measured scale and a theory scale.
-1,MeasuredID,In 'measured.tsv' a unique ID is given for each measurement.
-2,Name,Some sort of name; not necessarily unique; often used to help identify where in the source it was found.
-3,Ascending Intervals,"Adjacent intervals in order of increasing frequency. Stored as either integers separated by semicolons, or correspond to a code that matches with a tuning system."
-4,Descending Intervals,"Adjacent intervals in order of increasing frequency. Stored as either integers separated by semicolons, or correspond to a code that matches with a tuning system. These are only included when there is a difference between ascending and descending versions of the same scale."
-5,Tonic,Information on tonality: a single number indicates a single tonic; a list of numbers clearly indicates the position of each note in the hierarchy. The total count of +IBgAnA-tonic notes' should be one greater than the number of 'Intervals'.
-6,Modes,"A list of modes that are used in a given tuning system. These are stored as a list of modes separated by commas, where notes in the mode are separated by semicolons."
-7,Culture,"This can be a musical tradition, a country, a language group, or the name of a group of people."
-8,Region,Which geographical region was the scale / instrument from / where was a recording made?
-9,Tuning,This is used to match Theory scales with their tuning systems
-10,Reference,Reference where the information is obtained
-11,Theory,Is it a theoretical scale? Or is it a scale / instrument tuning that has been measured empirically?
-12,RefID,Reference ID: links with 'source_list' sheet
-13,Primary_source?,Is this a primary source?
-14,Country,"This is only used for creating the distribution on a world map; there are a few cases (they should be noted) where the exact country is not known, but guessed."
-15,Measured_type,"Indicates if data was taken from an instrument tuning, or from a song recording."
-16,Instrument,Instrument name given in source (some spellings have been changed for consistency in transliteration).
-17,Inst_type,Hornbostel-Sachs classification
-18,Octave_modified,"Is there evidence to say that the octave is used, but a final interval is not reported? If so, add the final interval when creating the list of scales."
-19,Reduced_scale,"Is the scale truncated at, or collapsed onto the octave?"
+Column,Description
+TheoryID,In 'theory.tsv' a unique ID is given for each named scale. This ID should persist when the 'same' scale is used with different tuning systems.
+MeasuredID,In 'measured.tsv' a unique ID is given for each measurement.
+Name,"Some sort of name; not necessarily unique, and not used for indexing. Often chosen to help identify the data in the source."
+Ascending Intervals,"Adjacent intervals in order of increasing frequency. Stored as either integers separated by semicolons, or correspond to a code that matches with a tuning system."
+Descending Intervals,"Adjacent intervals in order of increasing frequency. Stored as either integers separated by semicolons, or correspond to a code that matches with a tuning system. These are only included when there is a difference between ascending and descending versions of the same scale."
+Tonic,Information on tonality: a single number indicates a single tonic; a list of numbers clearly indicates the position of each note in the hierarchy. The total count of 'tonic notes' should be one greater than the number of 'Intervals'.
+Variants,"A list of variants that are used in a given tuning system. These are stored as a list of variants separated by commas, where notes in the variant are separated by semicolons."
+Culture,"This can be a musical tradition, a country, a language group, or the name of a group of people."
+SocID,"A unique ID is given for each society. These are defined at different levels of granularity (e.g., continent-level musical tradition, language group, country, etc.)."
+Region,Which geographical region was the scale / instrument from / where was a recording made?
+Tuning,"This is used to match Theory scales with their tuning systems. If more than one tuning system is used: they can be listed in the same row, separated by a semi-colon; or given a separate row for each tuning system."
+Reference,Reference where the information is obtained
+Theory,Is it a theoretical scale? Or is it a scale / instrument tuning that has been measured empirically?
+RefID,Reference ID: links with 'source_list' sheet
+Primary_source?,Is this a primary source?
+Country,"This is mainly used for creating the distribution on a world map; there are a few cases (they should be noted) where the exact country is not known, but guessed."
+Measured_type,"Indicates if data was taken from an instrument tuning, or from a song recording."
+Instrument,Instrument name given in source (some spellings have been changed for consistency in transliteration).
+Inst_type,Hornbostel-Sachs classification
+Melodic / Harmonic,Was the measurement made using melodic intervals or harmonic intervals?
+Octave_modified,"Is there evidence to say that the octave is used, but a final interval is not reported? If so, add the final interval when creating the list of scales."
+Reduced_scale,"Occasionally, a scale extends beyond an octave range yet the source only reports a truncated verion, which is collapsed onto a single octave."
+Notes,"Other relevant, or interesting details."

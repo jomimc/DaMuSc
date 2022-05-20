@@ -1,461 +1,460 @@
-TheoryID,Name,Ascending Intervals,Descending Intervals,Tonic,Culture,Region,Tuning,Reference,RefID,Primary_source?,Country,Reduced_scale,Notes,SocID
-T0001,Major,2;2;1;2;2;2;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0002,Natural minor,2;1;2;2;1;2;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0003,Harmonic minor,2;1;2;2;1;3;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0004,Melodic minor,2;1;2;2;2;2;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0005,Chromatic,1;1;1;1;1;1;1;1;1;1;1;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0006,Lydian,2;2;2;1;2;2;1,N/A,1,Diatonic modes,Western,12-tet;Just;Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Dia2
-T0007,Ionian,2;2;1;2;2;2;1,N/A,1,Diatonic modes,Western,12-tet;Just;Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Dia2
-T0008,Mixolydian,2;2;1;2;2;1;2,N/A,1,Diatonic modes,Western,12-tet;Just;Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Dia2
-T0009,Dorian,2;1;2;2;2;1;2,N/A,1,Diatonic modes,Western,12-tet;Just;Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Dia2
-T0010,Aeolian,2;1;2;2;1;2;2,N/A,1,Diatonic modes,Western,12-tet;Just;Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Dia2
-T0011,Phrygian,1;2;2;2;1;2;2,N/A,1,Diatonic modes,Western,12-tet;Just;Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Dia2
-T0012,Locrian,1;2;2;1;2;2;2,N/A,1,Diatonic modes,Western,12-tet;Just;Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Dia2
-T0013,Acoustic,2;2;2;1;2;1;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0014,Hungarian Major 1,3;1;2;1;2;1;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0015,Hungarian Major 2,3;1;2;1;2;2;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0016,Lydian Major,2;2;2;1;1;2;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0017,Prometheus,2;2;2;3;1;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0018,Neapolitan Prometheus,1;3;2;3;1;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0019,Leading whole-tone,2;2;2;2;2;1;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0020,Lydian Diminished,2;1;3;1;2;2;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0021,Harmonic major,2;2;1;2;1;3;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0022,Major-minor,2;2;1;2;1;2;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0023,Neapolitan Major,1;3;1;2;2;2;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0024,Neapolitan Mixolydian,1;3;1;2;2;1;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0025,Mixolydian flat sixth,2;2;1;2;1;2;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0026,Mixolydian sharp second,3;1;1;2;2;1;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0027,Ukrainian Dorian,2;1;3;1;2;1;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0028,Neapolitan Dorian,1;2;2;2;2;1;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0029,Hungarian Minor 1,2;1;3;1;1;2;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0030,Hungarian Minor 2,2;1;3;1;1;3;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0031,Spanish Phrygian 7 tone,1;3;1;2;1;2;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0032,Spanish Phrygian 8 tone,1;2;1;1;2;1;2;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0033,Espla's Scale,1;2;1;1;1;2;2;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0034,Double Harmonic,1;3;1;2;1;3;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0035,Harmonic Phrygian,1;2;2;2;1;3;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0036,Phrygian Major,1;2;2;2;2;2;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0037,Major Locrian,2;2;1;1;2;2;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0038,Minor Locrian,2;1;2;1;2;2;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0039,Locrian Minor,2;1;2;1;2;3;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0040,Super Locrian,1;2;1;2;2;2;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0041,Ultra Locrian,1;2;1;2;2;1;3,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0042,Oriental,1;2;2;1;3;1;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0043,Doric Locrian,2;1;2;1;3;1;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0044,Persian,1;3;1;1;3;1;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0045,Tcherepnin Enneatonic,1;2;1;1;2;1;1;2;1,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0046,Tcherepnin Hexatonic,1;3;1;3;1;3,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0047,Shostakovich,1;2;1;3;1;2;2,N/A,1,Western Classical,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0048,Hijaz,1;3;1;2;1;2;2,N/A,1,Greek Folk,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Greece,Y,N/A,Gre3
-T0049,Souzinak,2;1;3;1;2;1;2,N/A,1,Greek Folk,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Greece,Y,N/A,Gre3
-T0050,Hijazkiar,1;3;1;2;1;3;1,N/A,1,Greek Folk,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Greece,Y,N/A,Gre3
-T0051,Rast,2;2;1;2;2;2;1,N/A,1,Greek Folk,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Greece,Y,N/A,Gre3
-T0052,Houzam,3;1;1;2;1;3;1,N/A,1,Greek Folk,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Greece,Y,N/A,Gre3
-T0053,Ousak,1;2;2;2;1;2;2,N/A,1,Greek Folk,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Greece,Y,N/A,Gre3
-T0054,Niaventi,2;1;3;1;1;3;1,N/A,1,Greek Folk,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Greece,Y,N/A,Gre3
-T0055,Kiordi,2;1;2;2;1;2;2,N/A,1,Greek Folk,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Greece,Y,N/A,Gre3
-T0056,Tsinganikos,1;3;1;1;3;1;2,N/A,1,Greek Folk,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Greece,Y,N/A,Gre3
-T0057,Periaiotikos,3;1;2;1;2;2;1,N/A,1,Greek Folk,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Greece,Y,N/A,Gre3
-T0058,Sabach,2;1;1;3;1;2;2,N/A,1,Greek Folk,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Greece,Y,N/A,Gre3
-T0059,Segiah,3;1;1;2;1;2;2,N/A,1,Greek Folk,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Greece,Y,N/A,Gre3
-T0060,Pentatonic 1,2;2;3;2;3,N/A,1,Western Classical,Western,12-tet;Just;Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0061,Pentatonic 2,2;3;2;2;3,N/A,1,Western Classical,Western,12-tet;Just;Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0062,Pentatonic 3,2;3;2;3;2,N/A,1,Western Classical,Western,12-tet;Just;Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0063,Pentatonic 4,3;2;2;3;2,N/A,1,Western Classical,Western,12-tet;Just;Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0064,Pentatonic 5,3;2;3;2;2,N/A,1,Western Classical,Western,12-tet;Just;Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Wes1
-T0065,Minor Blues,3;2;1;1;3;2,N/A,1,Jazz,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Jaz4
-T0066,Major Blues,2;1;1;3;2;3,N/A,1,Jazz,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Jaz4
-T0067,Bebop Dominant,2;2;1;2;2;1;1;1,N/A,1,Jazz,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Jaz4
-T0068,Bebop Major,2;2;1;2;1;1;2;1,N/A,1,Jazz,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Jaz4
-T0069,Bebop Minor,2;1;2;2;1;2;1;1,N/A,1,Jazz,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Jaz4
-T0070,Bebop Melodic Minor,2;1;2;2;1;1;2;1,N/A,1,Jazz,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Jaz4
-T0071,Bebop Dorian,2;1;1;1;2;2;1;2,N/A,1,Jazz,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Jaz4
-T0072,Jazz Minor,2;1;2;2;2;2;1,N/A,1,Jazz,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Jaz4
-T0073,Jazz Harmonic Minor,2;1;2;2;1;3;1,N/A,1,Jazz,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Jaz4
-T0074,Augmented,2;2;2;2;2;2,N/A,1,Jazz,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Jaz4
-T0075,Diminished,1;2;1;2;1;2;1;2,N/A,1,Jazz,Western,12-tet,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Jaz4
-T0076,Ryo,2;2;3;2;3,N/A,1,Japanese,East Asia,Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Japan,Y,N/A,Jap5
-T0077,Ritsu,2;3;2;2;3,N/A,1,Japanese,East Asia,Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Japan,Y,N/A,Jap5
-T0078,Minyo,3;2;2;3;2,N/A,1,Japanese,East Asia,Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Japan,Y,N/A,Jap5
-T0079,Hirajoshi,2;1;4;1;4,N/A,1,Japanese,East Asia,Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Japan,Y,N/A,Jap5
-T0080,Kumoi Joshi,1;4;2;1;4,N/A,1,Japanese,East Asia,Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Japan,Y,N/A,Jap5
-T0081,Iwato,1;4;1;4;2,N/A,1,Japanese,East Asia,Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Japan,Y,N/A,Jap5
-T0082,Kokin Joshi,2;3;2;1;4,N/A,1,Japanese,East Asia,Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Japan,Y,N/A,Jap5
-T0083,Akebono,2;1;4;2;3,N/A,1,Japanese,East Asia,Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Japan,Y,N/A,Jap5
-T0084,Han Iwato,1;4;2;3;2,N/A,1,Japanese,East Asia,Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Japan,Y,N/A,Jap5
-T0085,Ryukan,4;1;2;4;1,N/A,1,Okinawan,East Asia,Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Japan,Y,N/A,Oki6
-T0086,Yosenpo,2;3;2;3;2,2;3;2;2;3,1,Japanese,East Asia,Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Japan,Y,N/A,Jap5
-T0088,Isenpo,1;4;2;3;2,1;4;2;1;4,1,Japanese,East Asia,Pythagorean,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Japan,Y,N/A,Jap5
-T0090,Silaba,2;2;1;2;2;2;1,N/A,1,Kora,Africa,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Mal54
-T0091,Tomora Mesengo,2;1;2;2;2;1;2,N/A,1,Kora,Africa,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Mal54
-T0092,Sauta,2;2;2;1;2;2;1,N/A,1,Kora,Africa,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Mal54
-T0093,Hardino,2;2;1;2;2;2;1,N/A,1,Kora,Africa,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,Many,Y,N/A,Mal54
-T0094,Bilawal,2;2;1;2;2;2;1,N/A,1,Northern India,South Asia,12-tet;Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Nor8
-T0095,Kalyan,2;2;2;1;2;2;1,N/A,1,Northern India,South Asia,12-tet;Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Nor8
-T0096,Khamaj,2;2;1;2;2;1;2,N/A,1,Northern India,South Asia,12-tet;Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Nor8
-T0097,Khafi,2;1;2;2;2;1;2,N/A,1,Northern India,South Asia,12-tet;Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Nor8
-T0098,Asavari,2;1;2;2;1;2;2,N/A,1,Northern India,South Asia,12-tet;Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Nor8
-T0099,Bhairavi,1;2;2;2;1;2;2,N/A,1,Northern India,South Asia,12-tet;Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Nor8
-T0100,Purvi,1;3;2;1;1;3;1,N/A,1,Northern India,South Asia,12-tet;Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Nor8
-T0101,Todi,1;2;3;1;1;3;1,N/A,1,Northern India,South Asia,12-tet;Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Nor8
-T0102,Bhairav,1;3;1;2;1;3;1,N/A,1,Northern India,South Asia,12-tet;Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Nor8
-T0103,Marwa,1;3;2;1;2;2;1,N/A,1,Northern India,South Asia,12-tet;Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Nor8
-T0104,Mela Kanakangi,1;1;3;2;1;1;3,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0105,Mela Ratnangi,1;1;3;2;1;2;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0106,Mela Ganamurti,1;1;3;2;1;3;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0107,Mela Vanaspati,1;1;3;2;2;1;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0108,Mela Manavati,1;1;3;2;2;2;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0109,Mela Tanarupi,1;1;3;2;3;1;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0110,Mela Senavati,1;2;2;2;1;1;3,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0111,Mela Hanumatodi,1;2;2;2;1;2;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0112,Mela Dhenuka,1;2;2;2;1;3;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0113,Mela Natakapriya,1;2;2;2;2;1;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0114,Mela Kokilapriya,1;2;2;2;2;2;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0115,Mela Rupavati,1;2;2;2;1;3;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0116,Mela Gayakapriya,1;3;1;2;1;1;3,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0117,Mela Vakulabharanam,1;3;1;2;1;2;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0118,Mela Mayamalavagowla,1;3;1;2;1;3;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0119,Mela Chakravakam,1;3;1;2;2;1;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0120,Mela Suryakantam,1;3;1;2;2;2;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0121,Mela Hatakambari,1;3;1;2;3;1;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0122,Mela Jhankaradhwani,2;1;2;2;1;1;3,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0123,Mela Natabhairavi,2;1;2;2;1;2;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0124,Mela Keeravani,2;1;2;2;1;3;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0125,Mela Kharaharapriya,2;1;2;2;2;1;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0126,Mela Gourimanohari,2;1;2;2;2;2;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0127,Mela Varunapriya,2;1;2;2;3;1;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0128,Mela Mararanjani,2;2;1;2;1;1;3,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0129,Mela Charukesi,2;2;1;2;1;2;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0130,Mela Sarasangi,2;2;1;2;1;3;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0131,Mela Harikambhoji,2;2;1;2;2;1;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0132,Mela Dheerasankarabharanam,2;2;1;2;2;2;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0133,Mela Naganandini,2;2;1;2;3;1;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0134,Mela Yagapriya,3;1;1;2;1;1;3,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0135,Mela Ragavardhini,3;1;1;2;1;2;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0136,Mela Gangeyabhushani,3;1;1;2;1;3;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0137,Mela Vagadheeswari,3;1;1;2;2;1;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0138,Mela Shulini,3;1;1;2;2;2;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0139,Mela Chalanata,3;1;1;2;3;1;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0140,Mela Salagam,1;1;4;1;1;1;3,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0141,Mela Jalarnavam,1;1;4;1;1;2;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0142,Mela Jhalavarali,1;1;4;1;1;3;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0143,Mela Navaneetam,1;1;4;1;2;1;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0144,Mela Pavani,1;1;4;1;2;2;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0145,Mela Raghupriya,1;1;4;1;3;1;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0146,Mela Gavambhodi,1;2;3;1;1;1;3,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0147,Mela Bhavapriya,1;2;3;1;1;2;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0148,Mela Shubhapantuvarali,1;2;3;1;1;3;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0149,Mela Shadvidamargini,1;2;3;1;2;1;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0150,Mela Suvarnangi,1;2;3;1;2;2;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0151,Mela Divyamani,1;2;3;1;3;1;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0152,Mela Dhavalambari,1;3;2;1;1;1;3,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0153,Mela Namanarayani,1;3;2;1;1;2;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0154,Mela Kamavardani,1;3;2;1;1;3;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0155,Mela Ramapriya,1;3;2;1;2;1;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0156,Mela Gamanashrama,1;3;2;1;2;2;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0157,Mela Vishwambari,1;3;2;1;3;1;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0158,Mela Shamalangi,2;1;3;1;1;1;3,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0159,Mela Shanmukhapriya,2;1;3;1;1;2;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0160,Mela Simhendramadhyamam,2;1;3;1;1;3;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0161,Mela Hemavati,2;1;3;1;2;1;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0162,Mela Dharmavati,2;1;3;1;2;2;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0163,Mela Neetimati,2;1;3;1;3;1;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0164,Mela Kantamani,2;2;2;1;1;1;3,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0165,Mela Rishabhapriya,2;2;2;1;1;2;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0166,Mela Latangi,2;2;2;1;1;3;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0167,Mela Vachaspati,2;2;2;1;2;1;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0168,Mela Mechakalyani,2;2;2;1;2;2;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0169,Mela Chitrambari,2;2;2;1;3;1;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0170,Mela Sucharitra,3;1;2;1;1;1;3,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0171,Mela Jyoti Swarupini,3;1;2;1;1;2;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0172,Mela Dhatuvardani,3;1;2;1;1;3;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0173,Mela Nasikabhushani,3;1;2;1;2;1;2,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0174,Mela Kosalam,3;1;2;1;2;2;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0175,Mela Rasikapriya,3;1;2;1;3;1;1,N/A,1,Carnatic,South Asia,Just,"Hewitt, Michael John. Musical Scales of the World. Note Tree, 2013",1,N,India,Y,N/A,Car9
-T0176,Adonai Malakh,1;1;1;2;2;2;1;2,N/A,1,Jewish,Middle East,???,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Israel,Y,N/A,Jew10
-T0177,Magen Abot 1,1;2;1;2;2;2;1;1,N/A,1,Jewish,Middle East,???,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Israel,Y,N/A,Jew10
-T0178,Magen Abot 2,1;2;1;2;2;1;2;1,N/A,1,Jewish,Middle East,???,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Israel,Y,N/A,Jew10
-T0179,Ahava Rabba,1;2;1;1;1;2;2;2,N/A,1,Jewish,Middle East,???,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Israel,Y,N/A,Jew10
-T0180,Nine-note blues,2;1;1;1;1;1;2;1;2,N/A,1,Jazz,Western,12-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Jaz4
-T0181,Symmetrical Decatonic,1;1;2;1;1;1;1;2;1;1,N/A,1,Western Classical,Western,12-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Wes1
-T0182,Mawam Yakah Bayati,4;3;3;4;4;3;3,4;3;3;4;3;3;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0183,Maqam Yakah Nahawand,4;3;3;4;4;3;3,4;3;3;4;4;2;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0184,Maqam Sultani Yakah,4;2;4;4;2;6;2,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0185,Maqam Farahfaza,4;2;4;4;2;4;4,4;2;4;4;2;6;2,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0186,Maqam Shat Arban 1,2;6;2;4;2;6;2,2;6;2;4;2;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0187,Maqam Shat Arban 2,3;5;2;4;2;6;2,3;5;2;4;2;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0188,Maqam Husayni Ushayran,3;3;4;3;3;4;4,3;3;4;2;6;2;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0189,Maqam Bayati Ushayran,3;3;4;3;3;4;4,3;3;4;4;2;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0190,Maqam Shawq Tarab,2;4;4;3;3;2;6,2;4;4;2;4;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0191,Maqam Nahaft,3;3;4;4;4;2;4,3;3;4;3;3;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0192,Maqam Suzdal,2;6;2;4;2;6;2,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0193,Maqam Ajam Ushayran,4;4;2;4;4;4;2,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0194,Maqam Shawq Afza,4;4;2;4;2;6;2,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0195,Maqam Shawq Awr,4;4;4;2;4;4;2,4;4;2;4;4;2;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0196,Maqam Iraq,3;4;3;3;4;4;3,3;4;3;3;4;4;2;1,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0197,Maqam Awj Ara,3;6;1;5;2;6;1,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0198,Maqam Rahat Al-arwah,3;4;2;6;2;4;3,3;4;2;6;2;4;2;1,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0199,Maqam Farahnak,3;4;4;3;3;4;3,3;4;4;3;3;4;2;1,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0200,Maqam Rast,4;3;3;4;4;3;3,4;3;3;4;4;2;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0201,Maqam Suznak,4;3;3;4;3;5;2,4;3;3;4;4;2;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0202,Maqam Nayruz,4;3;3;4;3;3;4,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0203,Maqam Nahawand,4;2;4;4;2;6;2,4;2;4;4;2;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0204,Maqam Nahawand Murassa,4;2;4;2;6;2;4,4;2;4;2;4;6;2,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0205,Maqam Nahawand Kabir,4;2;4;4;2;6;2,4;2;4;4;4;2;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0206,Maqam Nawa'athar,4;2;6;2;2;6;2,4;2;4;4;4;2;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0207,Maqam Nakriz,4;2;6;2;4;2;4,4;2;6;2;4;3;3,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0208,Maqam Zankulah,2;6;2;4;4;2;4,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0209,Maqam Hijaz Kar Kurd,2;6;2;4;2;6;2,2;4;4;4;2;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0210,Maqam Athar Kurd,2;4;6;2;2;6;2,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0211,Maqam Hijaz Kar,2;6;2;4;2;6;2,2;6;2;4;2;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0212,Maqam Suzdilara 1,4;4;2;4;4;2;4,4;3;3;4;4;2;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0213,Maqam Suzdilara 2,4;4;2;4;4;3;3,4;3;3;4;4;2;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0214,Maqam Basandida,4;2;6;2;4;2;4,4;3;3;4;4;3;3,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0215,Maqam Tarz Nawayn,2;4;4;2;6;2;4,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0216,Maqam Mahur,4;3;3;4;4;4;2,4;3;3;4;4;2;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0217,Maqam Dalanshin,4;3;3;4;4;3;3;2;6;2,4;3;3;4;4;2;4;4;3;3,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,N,N/A,Ara11
-T0218,Maqam Bayati,3;3;4;4;3;3;4,3;3;4;4;2;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0219,Maqam Bayati Shuri,3;3;4;2;6;2;4,3;3;4;4;2;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0220,Maqam Bayatayn,3;3;4;3;5;2;4,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0221,Maqam Husayni,3;3;4;4;3;3;4,3;3;4;4;2;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0222,Maqam Hijaz,2;6;2;4;3;3;4,2;6;2;4;2;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0223,Maqam Hijaz Gharib,3;4;3;4;3;3;4,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0224,Maqam Saba,3;3;2;6;2;4;4,3;3;2;6;2;4;2;2,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0225,Maqam Saba Zamzama,2;4;2;6;2;4;4,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0226,Maqam Saba Busalik,4;2;2;6;2;4;3;1,4;2;2;6;2;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0227,Maqam Sabr Jadid,3;3;2;6;2;6;2,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0228,Maqam Kurd,2;4;4;4;2;4;4,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0229,Maqam Ushaq Masri,4;2;4;4;3;3;4,4;2;4;4;2;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0230,Maqam Busalik 1,4;2;4;4;2;4;4;4;2;4;4;2;6;2,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,N,N/A,Ara11
-T0231,Maqam Hisar 1,4;2;6;2;2;6;2,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0232,Maqam Hisar 2,3;3;6;2;2;6;2,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0233,Maqam Shahnaz,2;6;2;4;2;6;2,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0234,Maqam Nishaburk,4;3;3;4;3;3;4,4;3;3;4;2;4;4,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0235,Maqam Lami,2;4;4;2;4;4;4,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0236,Maqam Sikah,3;4;4;3;3;4;3,3;4;4;2;4;4;3,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0237,Maqam Huzam,3;4;2;6;2;4;3,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0238,Maqam Musta'ar,5;2;4;2;4;4;3,3;4;4;2;4;4;3,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0239,Maqam Mayyah,3;4;4;2;4;4;3,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0240,Maqam Jaharkah,4;4;2;4;4;3;3,N/A,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0241,Maqam Sikah Baladi,2;6;2;4;2;6;2,3;4;3;4;3;4;3,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0242,Maqam Awj,3;4;3;3;4;4;3,3;4;2;4;4;4;3,1,Arabic,Middle East,24-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0243,Dastgah-e Shur,2;2;3;3;1;3;3,N/A,1,Persian,Middle East,Dastgah-ha,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Iran,Y,N/A,Per12
-T0244,Naghmeh Abu Ata,2;3;3;1;3;3;2,N/A,1,Persian,Middle East,Dastgah-ha,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Iran,Y,N/A,Per12
-T0245,Naghmeh Bayat-e Tork,3;3;1;3;3;2;2,N/A,1,Persian,Middle East,Dastgah-ha,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Iran,Y,N/A,Per12
-T0246,Dastgah-e Mahur,3;3;1;3;3;3;1,N/A,1,Persian,Middle East,Dastgah-ha,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Iran,Y,N/A,Per12
-T0247,Dastgah-e Mahur Delkash,3;3;1;3;2;3;2,N/A,1,Persian,Middle East,Dastgah-ha,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Iran,Y,N/A,Per12
-T0248,Dastgah-e Homayun,2;4;1;3;1;3;3,N/A,1,Persian,Middle East,Dastgah-ha,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Iran,Y,N/A,Per12
-T0249,Bayat-e Esfahan,3;1;3;3;2;4;1,N/A,1,Persian,Middle East,Dastgah-ha,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Iran,Y,N/A,Per12
-T0250,Nagmeh Esfahan,3;2;2;3;2;2;2;1,N/A,1,Persian,Middle East,Dastgah-ha,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Iran,Y,N/A,Per12
-T0251,Dastgah-e Sehgah 1,2;3;2;2;3;3;2,N/A,1,Persian,Middle East,Dastgah-ha,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Iran,Y,N/A,Per12
-T0252,Dastgah-e Sehgah 2,3;2;2;3;2;2;3,N/A,1,Persian,Middle East,Dastgah-ha,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Iran,Y,N/A,Per12
-T0253,Dastgah-e Chahargah,2;4;1;3;2;4;1,N/A,1,Persian,Middle East,Dastgah-ha,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Iran,Y,N/A,Per12
-T0254,Dastgah-e Nava,3;1;3;3;2;2;3,N/A,1,Persian,Middle East,Dastgah-ha,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Iran,Y,N/A,Per12
-T0255,Cargah Makam,T;T;B;T;T;T;B,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0256,Buselik Makam 1,T;B;T;T;B;A;S,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0257,Buselik Makam 2,T;B;T;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0258,Buselik Makam 3,N/A,T;B;T;S;A;S;T,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,"This is presented as an �â��alternative descending form�â��, but without specifying which of the other two Buselik Maqam it is used with. Due to the ambiguity, I keep it as a separate entry.",Tur13
-T0259,Buselik Makam 4,S;A;S;T;B;T;T;B;T;T;T;B;T;T,N/A,4,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0260,Rast Makam,T;K;S;T;T;K;S,T;K;S;T;T;B;T,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0261,Ussak Makam 1,K;S;T;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0262,Ussak Makam 2,T;K;S;T;K;S;T;T;B;T;T;K;S;T,N/A,4,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0263,Hicaz Makam 1,S;A;S;T;K;S;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0264,Hicaz Makam 2,S;A;S;T;K;S;T,S;A;S;T;B;T;T,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0265,Hicaz Makam 3,T;K;S;T;S;A;S;T;K;S;T;T;B;T,N/A,5,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0266,Humayun Makam 1,S;A;S;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0267,Humayun Makam 2,S;A;S;T;B;T;T,S;A;S;T;K;S;T,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0268,Uzzal Makam 1,S;A;S;T;K;S;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0269,Uzzal Makam 2,S;A;S;T;K;S;T;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0270,Uzzal Makam 3,S;A;S;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0271,Uzzal Makam 4,S;A;S;T;S;A;S,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0272,Zirguleli Makam 1,S;A;S;T;S;A;S,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0273,Zirguleli Makam 2,S;A;S;T;S;A;S;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0274,Neva Makam 1,K;S;T;T;K;S;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0275,Neva Makam 2,K;S;T;T;K;S;T,K;S;T;T;B;T;T,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0276,Huseyni Makam 1,K;S;T;T;K;S;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0277,Huseyni Makam 2,K;S;T;T;K;S;T,K;S;T;T;B;T;T,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0278,Huseyni Makam 3,K;S;T;T;K;S;T;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0279,Karcigar Makam 1,K;S;T;S;A;S;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0280,Karcigar Makam 2,K;S;T;S;A;S;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0281,Basit Suz-nak Makam 1,T;K;S;T;S;A;S,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0282,Basit Suz-nak Makam 2,T;K;S;T;S;A;S;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0283,Kurdi Makam,B;T;T;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0284,Bayati Makam,K;S;T;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0285,Muhayyer Makam 1,K;S;T;T;K;S;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0286,Muhayyer Makam 2,K;S;T;T;K;S;T;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0287,Tahir Makam 1,K;S;T;T;K;S;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0288,Tahir Makam 2,K;S;T;T;K;S;T;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0289,Sehnaz Buselik Makam 1,T;B;T;T;B;A;S,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0290,Sehnaz Buselik Makam 2,T;B;T;T;B;A;S;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0291,Irak Makam 1,S;T;K;S;T;T;K,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0292,Irak Makam 2,S;A;B;S;T;K;S;T;T;K,N/A,4,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,The upper octave extension didn�â��t make any sense here.,Tur13
-T0293,Bestenigar Makam,S;T;K;S;S;A;B;T;S,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0294,Nikriz Makam 1,T;S;A;S;T;K;S,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0295,Nikriz Makam 2,T;S;A;S;T;K;S,T;S;A;S;T;B;T,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0296,Nev'eser Makam,T;S;A;S;S;A;S,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0297,Saba Makam 1,K;S;S;A;B;T;S;A;S,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0298,Saba Makam 2,K;S;S;A;B;T;S;A;S;K;S;S;A,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0299,Saba Zemzeme Maqam,K;S;S;A;B;T;S;A;S,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,N,N/A,Tur13
-T0300,Huzzam Makam 1,S;T;S;A;S;A;B,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0301,Huzzam Makam 2,S;A;S;T;B;T;T,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0302,Segah Makam,S;T;K;T;S;A;B,N/A,1,Turkish,Middle East,Turkish,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0303,Bac,2;4;2;2;3,N/A,1,Vietnam,South East Asia,Vietnamese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Vietnam,Y,N/A,Vie14
-T0304,Ho Mai Nhi,1;6;1;1;4,N/A,1,Vietnam,South East Asia,Vietnamese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Vietnam,Y,N/A,Vie14
-T0305,Xuan Ho,2;1;5;2;3,N/A,1,Vietnam,South East Asia,Vietnamese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Vietnam,Y,N/A,Vie14
-T0306,Thien,3;3;2;3;2,N/A,1,Vietnam,South East Asia,Vietnamese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Vietnam,Y,N/A,Vie14
-T0307,Ai,3;4;1;2;3,N/A,1,Vietnam,South East Asia,Vietnamese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Vietnam,Y,N/A,Vie14
-T0308,Sa Mac,4;4;4;1,N/A,1,Vietnam,South East Asia,Vietnamese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Vietnam,Y,N/A,Vie14
-T0309,Ai-oan,1;6;1;2;3,4;3;1;4;1,1,Vietnam,South East Asia,Vietnamese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Vietnam,Y,N/A,Vie14
-T0311,Vong co,1;6;1;2;3,5;2;1;4;1,1,Vietnam,South East Asia,Vietnamese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Vietnam,Y,N/A,Vie14
-T0313,Youlan,1;1;2;1;1;1;2;1;2,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0314,In,3;1;1;2;3;1;1,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0315,Honchoshi,1;4;2;1;2;2,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0316,Plagal Honchoshi,1;2;2;1;3;1;2,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0317,Gagaku Ritsu,2;3;2;2;3,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0318,Hexatonic Ritsu,1;2;2;3;2;2,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0319,Banshikicho,2;1;2;2;2;1;2,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0320,Ichikotsucho 1,2;2;1;1;1;2;2;1,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0321,Ichikotsucho 2,2;2;1;1;1;2;1;1;1,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0322,Hira-choshi,2;1;4;1;4,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0323,Yona-nukji Major,2;2;3;2;3,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0324,Iwato-choshi,1;2;2;1;4;2,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0325,Akikaze-choshi,2;1;4;2;3,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0326,Kokin-joshi,1;4;2;3;2,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0327,Miyako-bushi Onkai,1;1;3;2;1;1;3,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0328,Han Kumoi-joshi,2;3;2;1;4,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0329,Akebono 1,2;1;4;2;3,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0330,Akebono 2,1;4;2;1;4,N/A,1,Japanese,East Asia,12-tet;Pythagorean,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Japan,Y,N/A,Jap5
-T0331,Biyu,3;4;3;2,N/A,1,China,East Asia,Chinese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,China,Y,N/A,Chi15
-T0332,Jiao,2;3;3;2;2,N/A,1,China,East Asia,Chinese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,China,Y,N/A,Chi15
-T0333,Jin,3;3;2;2;2,N/A,1,China,East Asia,Chinese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,China,Y,N/A,Chi15
-T0334,Huowu,2;3;2;2;2;1,N/A,1,China,East Asia,Chinese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,China,Y,N/A,Chi15
-T0335,Pyeongjo,2;3;2;3;2,N/A,1,Korea,East Asia,Chinese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,China,Y,N/A,Kor16
-T0336,Kyemyeonjo,3;2;3;2;2,N/A,1,Korea,East Asia,Chinese,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,China,Y,N/A,Kor16
-T0337,Gong,2;2;3;2;3,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0338,Shang,2;3;2;3;2,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0339,Jue,3;2;3;2;2,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0340,Zhi,2;3;2;2;3,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0341,Yu,3;2;2;3;2,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0342,Yayue,2;2;2;1;2;2;1,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0343,Qingyue,2;2;1;2;2;2;1,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0344,Yanyue,2;2;1;2;2;1;2,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0345,Shanxi,2;2;1;2;3;2,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0346,Shanxi bangzi,2;2;1;2;2;1;2,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0347,Xinhua,4;3;2;3,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0348,Guizhou,2;3;2;2;1;2,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0349,Bai,2;2;1;2;4;1,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0350,Yunnan,3;2;4;1;2,N/A,1,China,East Asia,Chinese,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,China,Y,N/A,Chi15
-T0182,Mawam Yakah Bayati,9;7;6;9;6;7;9,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0183,Maqam Yakah Nahawand,9;4;9;9;4;14;4,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0185,Maqam Farahfaza,9;4;9;9;4;9;9,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0186,Maqam Shat Arban 1,5;13;4;9;7;6;9,5;13;4;9;4;9;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0188,Maqam Husayni Ushayran,6;7;9;6;7;9;9,6;7;9;4;14;4;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0189,Maqam Bayati Ushayran,6;7;9;6;7;9;9,6;7;9;9;4;9;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0338,Maqam Shawq Tarab,4;9;9;6;7;4;14,9;9;9;4;9;9;4,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0192,Maqam Suzdal,4;14;4;9;4;14;4,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0193,Maqam Ajam Ushayran,9;9;4;9;9;9;4,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0194,Maqam Shawq Afza,9;9;6;7;4;14;4,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0196,Maqam Iraq,6;9;6;7;9;9;7,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0197,Maqam Awj Ara,6;14;2;11;4;14;2,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0198,Maqam Rahat Al-arwah,7;9;7;7;4;14;4,7;9;7;7;4;14;4,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0199,Maqam Farahnak,6;9;9;7;6;9;7,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0200,Maqam Rast,9;7;6;9;9;7;6,9;7;6;9;9;4;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0201,Maqam Suznak,9;7;6;9;5;13;4,9;4;9;9;6;7;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0203,Maqam Nahawand,9;4;9;9;4;9;9,9;4;9;9;4;14;4,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0204,Maqam Nahawand Murassa,9;4;9;4;14;4;9,9;4;9;9;4;14;4,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0205,Maqam Nahawand Kabir,9;4;9;9;9;4;9,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0206,Maqam Nawa'athar,9;4;14;4;4;14;4,9;4;14;4;4;9;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0207,Maqam Nakriz,9;4;14;4;9;4;9,9;4;14;4;9;7;6,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0208,Maqam Zankulah,4;14;4;9;9;4;9,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0209,Maqam Hijaz Kar Kurd,4;14;4;9;4;14;4,4;9;9;9;4;9;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0211,Maqam Hijaz Kar,4;14;4;9;4;14;4,4;14;4;9;4;9;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0212,Maqam Suzdilara 1,9;9;4;9;9;4;9,9;7;6;9;9;4;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0214,Maqam Basandida,9;4;14;4;9;4;9,9;7;6;9;9;7;6,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0215,Maqam Tarz Nawayn,4;9;9;4;14;4;9,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0216,Maqam Mahur,9;9;4;9;9;9;4,9;7;6;9;9;4;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0217,Maqam Dalanshin,9;7;6;9;9;7;6,9;7;6;9;9;4;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0218,Maqam Bayati,6;7;9;9;6;7;9,6;7;9;9;4;9;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0219,Maqam Bayati Shuri,6;7;9;4;14;4;9,6;7;9;9;4;9;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0221,Maqam Husayni,6;7;8;8;6;7;9,6;7;9;9;4;9;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0222,Maqam Hijaz,5;13;4;9;7;6;9,4;13;4;9;4;14;4,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0224,Maqam Saba,6;7;4;14;4;9;9,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0225,Maqam Saba Zamzama,4;9;4;14;4;9;9,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0228,Maqam Kurd,4;9;9;9;4;9;9,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0231,Maqam Hisar 1,6;7;14;4;4;14;4,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0232,Maqam Hisar 2,6;7;14;4;4;14;4,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0233,Maqam Shahnaz,4;14;4;9;4;14;4,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0234,Maqam Nishaburk,9;7;6;9;6;7;9,9;7;6;9;4;9;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0236,Maqam Sikah,6;9;9;7;6;9;7,6;9;9;4;9;9;7,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0237,Maqam Huzam,6;9;4;14;4;9;7,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0238,Maqam Musta'ar,11;4;9;4;9;9;7,11;4;9;4;9;9;7,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0239,Maqam Mayyah,6;9;9;4;9;9;7,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0240,Maqam Jaharkah,9;9;4;9;9;7;6,N/A,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0242,Maqam Awj,9;9;9;4;9;9;4,9;9;4;9;9;4;9,1,Arabic,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Many,Y,N/A,Ara11
-T0255,Cargah Makam,9;9;4;9;9;9;4,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0256,Buselik Makam 1,9;4;9;9;4;13;5,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0257,Buselik Makam 2,9;4;9;9;4;9;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0258,Buselik Makam 3,9;4;9;5;12;5;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0260,Rast Makam,9;8;5;9;9;8;5,9;8;5;9;9;4;9,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0261,Ussak Makam,8;5;9;9;4;9;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0263,Hicaz Makam 1,5;12;5;9;8;5;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0264,Hicaz Makam 2,5;12;5;9;4;9;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0266,Humayun Makam 1,5;12;5;9;4;9;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0267,Humayun Makam 2,5;12;5;9;8;5;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0268,Uzzal Makam 1,5;12;5;9;8;5;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0269,Uzzal Makam 3,5;12;5;9;4;9;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0270,Uzzal Makam 4,5;12;5;9;5;12;5,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0272,Zirguleli Makam,5;12;5;9;5;12;5,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0274,Neva Makam,8;5;9;9;8;5;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0276,Huseyni Makam,8;5;9;9;8;5;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0279,Karcigar Makam,8;5;9;5;12;5;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0281,Basit Suz-nak Makam,9;8;5;9;5;12;5,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0283,Kurdi Makam,4;9;9;9;4;9;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0284,Bayati Makam,8;5;9;9;4;9;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0459,Muhayyer Makam,8;5;9;9;8;5;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0287,Tahir Makam,8;5;9;9;8;5;9,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0289,Sehnaz Buselik Makam,9;4;9;9;4;13;5,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0291,Irak Makam,5;9;8;5;9;9;8,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0293,Bestenigar Makam,5;9;8;5;12;4;9;5,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0294,Nikriz Makam,9;5;12;5;9;8;5,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0296,Nev'eser Makam,9;5;12;5;5;12;5,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0297,Saba Makam,8;5;12;4;9;5;13;5,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0299,Saba Zemzeme Maqam,8;5;5;12;4;9;5;13;5,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0300,Huzzam Makam,5;9;5;13;5;12;4,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0302,Segah Makam,5;9;8;9;5;13;4,N/A,1,Turkish,Middle East,53-tet,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Turkey,Y,N/A,Tur13
-T0303,Bac Dan Tranh,182;316;204;182;316,N/A,1,Vietnam,South East Asia,Cents,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Vietnam,Y,"Although not noted as such, these 4 seem like �â��theory�â�� scales; the intervals are too regular, and indentical to small-integer ratio intervals (e.g. 498, 702 and 1200 cents)",Vie14
-T0351,Dan Ca Dan Tranh,182;98;422;182;316,N/A,1,Vietnam,South East Asia,Cents,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Vietnam,Y,"Although not noted as such, these 4 seem like �â��theory�â�� scales; the intervals are too regular, and indentical to small-integer ratio intervals (e.g. 498, 702 and 1200 cents)",Vie14
-T0308,Sa Mac Dan Tranh,335;163;204;325;109;64,N/A,1,Vietnam,South East Asia,Cents,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Vietnam,Y,"Although not noted as such, these 4 seem like �â��theory�â�� scales; the intervals are too regular, and indentical to small-integer ratio intervals (e.g. 498, 702 and 1200 cents)",Vie14
-T0352,Vong Co Dan Tranh,165;207;148;182;165;170;163,N/A,1,Vietnam,South East Asia,Cents,"Rechberger, Herman. Scales and Modes around the World. Fennica-Gehrman, 2008",2,N,Vietnam,Y,"Although not noted as such, these 4 seem like �â��theory�â�� scales; the intervals are too regular, and indentical to small-integer ratio intervals (e.g. 498, 702 and 1200 cents)",Vie14
-T0353,Ochaq,204;204;90;204;204;90;204,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0354,Nawa,204;90;204;204;204;90;204,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0355,Bousilik,90;204;204;90;204;204;204,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0356,Rast,204;180;114;204;180;114;204,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0357,Iraq 1,180;204;114;180;204;114;204,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0358,Iraq 2,180;204;114;180;204;114;180,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0359,Irfahan 1,180;204;114;204;180;114;204,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0360,Irfahan 2,180;204;114;204;180;114;180,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0361,Zirafkend,180;114;204;180;1114;90;204;114,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0362,Bouzourk,180;204;114;180;24;204;180;114,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0363,Zenkouleh,204;180;114;180;204;114;204,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0364,Rahawi,180;204;114;180;114;204;204,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0365,Ilhosaini,180;114;204;180;228;90;204,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0366,Ilhidjazi,180;114;204;180;204;114;204,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0367,Shed Araban,100;100;200;100;200;100;200;200,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0368,Araq,350;150;200;150;150;200,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0369,Araq Zemzemy,200;100;200;200;150;150;200,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0370,Rahhat el Arwahh,350;150;200;100;300;100,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0371,Remel,200;150;150;200;150;100;150;100,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0372,Nikriz,200;300;200;150;250;100,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0373,Nishawerk,500;200;200;200;100,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0374,Penjgah,200;150;150;200;150;50;100;100;100,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0375,Sadhkar el muta�â��arif,200;150;150;200;200;100;200,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0376,Ilhejaskar,200;100;400;150;250;100,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0377,Shawerk of the Egyptians,300;200;200;150;150;200,N/A,1,Arabic,Middle East,Cents,Ellis �â�� 1885 �â�� On the musical scales of various nations,3,N,Many,Y,N/A,Ara11
-T0378,First,10;8;12;12;10;8;12,N/A,1,Byzantine,Europe,72-tet,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205�â��221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Many,Y,N/A,Byz95
-T0379,First Plagal,10;8;12;12;10;8;12,N/A,1,Byzantine,Europe,72-tet,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205�â��221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Many,Y,"Equivalent to �â��First�â��, but added for completeness. The Plagal version starts a fifth lower, and differs in melodic characteristics.",Byz95
-T0380,Second,8;14;8;12;8;14;8,N/A,1,Byzantine,Europe,72-tet,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205�â��221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Many,Y,N/A,Byz95
-T0381,Second Plagal,6;20;4;12;6;20;4,N/A,1,Byzantine,Europe,72-tet,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205�â��221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Many,Y,N/A,Byz95
-T0382,Third,12;12;6;12;12;12;6,N/A,1,Byzantine,Europe,72-tet,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205�â��221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Many,Y,N/A,Byz95
-T0383,Grave,12;12;6;12;12;12;6,N/A,1,Byzantine,Europe,72-tet,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205�â��221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Many,Y,"Equivalent to �â��Third�â��, but added for completeness. The Plagal version starts a fifth lower, and differs in melodic characteristics.",Byz95
-T0384,Fourth,8;12;12;10;8;12;10,N/A,1,Byzantine,Europe,72-tet,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205�â��221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Many,Y,N/A,Byz95
-T0385,Fourth Plagal,12;10;8;12;12;10;8,N/A,1,Byzantine,Europe,72-tet,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205�â��221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Many,Y,N/A,Byz95
+TheoryID,Name,Ascending Intervals,Descending Intervals,Tonic,Tuning,Culture,Country,Region,SocID,,Reference,RefID,Primary_source?,Reduced_scale,Notes
+T0001,Major,2;2;1;2;2;2;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0002,Natural minor,2;1;2;2;1;2;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0003,Harmonic minor,2;1;2;2;1;3;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0004,Melodic minor,2;1;2;2;2;2;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0005,Chromatic,1;1;1;1;1;1;1;1;1;1;1;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0006,Lydian,2;2;2;1;2;2;1,N/A,1,12-tet;Just;Pythagorean,Diatonic modes,Many,Western,Dia2,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,"I’ve included these as separate to Western Classical, partly because that’s how it was reported in the book, but also partly due to the long history of these seven modes."
+T0007,Ionian,2;2;1;2;2;2;1,N/A,1,12-tet;Just;Pythagorean,Diatonic modes,Many,Western,Dia2,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,"I’ve included these as separate to Western Classical, partly because that’s how it was reported in the book, but also partly due to the long history of these seven modes."
+T0008,Mixolydian,2;2;1;2;2;1;2,N/A,1,12-tet;Just;Pythagorean,Diatonic modes,Many,Western,Dia2,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,"I’ve included these as separate to Western Classical, partly because that’s how it was reported in the book, but also partly due to the long history of these seven modes."
+T0009,Dorian,2;1;2;2;2;1;2,N/A,1,12-tet;Just;Pythagorean,Diatonic modes,Many,Western,Dia2,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,"I’ve included these as separate to Western Classical, partly because that’s how it was reported in the book, but also partly due to the long history of these seven modes."
+T0010,Aeolian,2;1;2;2;1;2;2,N/A,1,12-tet;Just;Pythagorean,Diatonic modes,Many,Western,Dia2,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,"I’ve included these as separate to Western Classical, partly because that’s how it was reported in the book, but also partly due to the long history of these seven modes."
+T0011,Phrygian,1;2;2;2;1;2;2,N/A,1,12-tet;Just;Pythagorean,Diatonic modes,Many,Western,Dia2,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,"I’ve included these as separate to Western Classical, partly because that’s how it was reported in the book, but also partly due to the long history of these seven modes."
+T0012,Locrian,1;2;2;1;2;2;2,N/A,1,12-tet;Just;Pythagorean,Diatonic modes,Many,Western,Dia2,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,"I’ve included these as separate to Western Classical, partly because that’s how it was reported in the book, but also partly due to the long history of these seven modes."
+T0013,Acoustic,2;2;2;1;2;1;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0014,Hungarian Major 1,3;1;2;1;2;1;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0015,Hungarian Major 2,3;1;2;1;2;2;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0016,Lydian Major,2;2;2;1;1;2;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0017,Prometheus,2;2;2;3;1;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0018,Neapolitan Prometheus,1;3;2;3;1;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0019,Leading whole-tone,2;2;2;2;2;1;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0020,Lydian Diminished,2;1;3;1;2;2;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0021,Harmonic major,2;2;1;2;1;3;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0022,Major-minor,2;2;1;2;1;2;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0023,Neapolitan Major,1;3;1;2;2;2;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0024,Neapolitan Mixolydian,1;3;1;2;2;1;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0025,Mixolydian flat sixth,2;2;1;2;1;2;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0026,Mixolydian sharp second,3;1;1;2;2;1;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0027,Ukrainian Dorian,2;1;3;1;2;1;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0028,Neapolitan Dorian,1;2;2;2;2;1;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0029,Hungarian Minor 1,2;1;3;1;1;2;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0030,Hungarian Minor 2,2;1;3;1;1;3;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0031,Spanish Phrygian 7 tone,1;3;1;2;1;2;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0032,Spanish Phrygian 8 tone,1;2;1;1;2;1;2;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0033,Espla's Scale,1;2;1;1;1;2;2;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0034,Double Harmonic,1;3;1;2;1;3;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0035,Harmonic Phrygian,1;2;2;2;1;3;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0036,Phrygian Major,1;2;2;2;2;2;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0037,Major Locrian,2;2;1;1;2;2;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0038,Minor Locrian,2;1;2;1;2;2;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0039,Locrian Minor,2;1;2;1;2;3;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0040,Super Locrian,1;2;1;2;2;2;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0041,Ultra Locrian,1;2;1;2;2;1;3,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0042,Oriental,1;2;2;1;3;1;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0043,Doric Locrian,2;1;2;1;3;1;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0044,Persian,1;3;1;1;3;1;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0045,Tcherepnin Enneatonic,1;2;1;1;2;1;1;2;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0046,Tcherepnin Hexatonic,1;3;1;3;1;3,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0047,Shostakovich,1;2;1;3;1;2;2,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0048,Hijaz,1;3;1;2;1;2;2,N/A,1,12-tet,Greek Folk,Greece,Western,Gre3,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0049,Souzinak,2;1;3;1;2;1;2,N/A,1,12-tet,Greek Folk,Greece,Western,Gre3,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0050,Hijazkiar,1;3;1;2;1;3;1,N/A,1,12-tet,Greek Folk,Greece,Western,Gre3,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0051,Rast,2;2;1;2;2;2;1,N/A,1,12-tet,Greek Folk,Greece,Western,Gre3,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0052,Houzam,3;1;1;2;1;3;1,N/A,1,12-tet,Greek Folk,Greece,Western,Gre3,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0053,Ousak,1;2;2;2;1;2;2,N/A,1,12-tet,Greek Folk,Greece,Western,Gre3,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0054,Niaventi,2;1;3;1;1;3;1,N/A,1,12-tet,Greek Folk,Greece,Western,Gre3,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0055,Kiordi,2;1;2;2;1;2;2,N/A,1,12-tet,Greek Folk,Greece,Western,Gre3,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0056,Tsinganikos,1;3;1;1;3;1;2,N/A,1,12-tet,Greek Folk,Greece,Western,Gre3,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0057,Periaiotikos,3;1;2;1;2;2;1,N/A,1,12-tet,Greek Folk,Greece,Western,Gre3,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0058,Sabach,2;1;1;3;1;2;2,N/A,1,12-tet,Greek Folk,Greece,Western,Gre3,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0059,Segiah,3;1;1;2;1;2;2,N/A,1,12-tet,Greek Folk,Greece,Western,Gre3,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0060,Pentatonic 1,2;2;3;2;3,N/A,1,12-tet;Just;Pythagorean,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0061,Pentatonic 2,2;3;2;2;3,N/A,1,12-tet;Just;Pythagorean,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0062,Pentatonic 3,2;3;2;3;2,N/A,1,12-tet;Just;Pythagorean,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0063,Pentatonic 4,3;2;2;3;2,N/A,1,12-tet;Just;Pythagorean,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0064,Pentatonic 5,3;2;3;2;2,N/A,1,12-tet;Just;Pythagorean,Western Classical,Many,Western,Wes1,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0065,Minor Blues,3;2;1;1;3;2,N/A,1,12-tet,Jazz,Many,Western,Jaz4,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0066,Major Blues,2;1;1;3;2;3,N/A,1,12-tet,Jazz,Many,Western,Jaz4,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0067,Bebop Dominant,2;2;1;2;2;1;1;1,N/A,1,12-tet,Jazz,Many,Western,Jaz4,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0068,Bebop Major,2;2;1;2;1;1;2;1,N/A,1,12-tet,Jazz,Many,Western,Jaz4,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0069,Bebop Minor,2;1;2;2;1;2;1;1,N/A,1,12-tet,Jazz,Many,Western,Jaz4,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0070,Bebop Melodic Minor,2;1;2;2;1;1;2;1,N/A,1,12-tet,Jazz,Many,Western,Jaz4,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0071,Bebop Dorian,2;1;1;1;2;2;1;2,N/A,1,12-tet,Jazz,Many,Western,Jaz4,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0072,Jazz Minor,2;1;2;2;2;2;1,N/A,1,12-tet,Jazz,Many,Western,Jaz4,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0073,Jazz Harmonic Minor,2;1;2;2;1;3;1,N/A,1,12-tet,Jazz,Many,Western,Jaz4,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0074,Augmented,2;2;2;2;2;2,N/A,1,12-tet,Jazz,Many,Western,Jaz4,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0075,Diminished,1;2;1;2;1;2;1;2,N/A,1,12-tet,Jazz,Many,Western,Jaz4,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0076,Ryo,2;2;3;2;3,N/A,1,Pythagorean,Japanese,Japan,East Asia,Jap5,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0077,Ritsu,2;3;2;2;3,N/A,1,Pythagorean,Japanese,Japan,East Asia,Jap5,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0078,Minyo,3;2;2;3;2,N/A,1,Pythagorean,Japanese,Japan,East Asia,Jap5,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0079,Hirajoshi,2;1;4;1;4,N/A,1,Pythagorean,Japanese,Japan,East Asia,Jap5,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0080,Kumoi Joshi,1;4;2;1;4,N/A,1,Pythagorean,Japanese,Japan,East Asia,Jap5,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0081,Iwato,1;4;1;4;2,N/A,1,Pythagorean,Japanese,Japan,East Asia,Jap5,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0082,Kokin Joshi,2;3;2;1;4,N/A,1,Pythagorean,Japanese,Japan,East Asia,Jap5,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0083,Akebono,2;1;4;2;3,N/A,1,Pythagorean,Japanese,Japan,East Asia,Jap5,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0084,Han Iwato,1;4;2;3;2,N/A,1,Pythagorean,Japanese,Japan,East Asia,Jap5,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0085,Ryukan,4;1;2;4;1,N/A,1,Pythagorean,Okinawan,Japan,East Asia,Oki6,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0086,Yosenpo,2;3;2;3;2,2;3;2;2;3,1,Pythagorean,Japanese,Japan,East Asia,Jap5,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0088,Isenpo,1;4;2;3;2,1;4;2;1;4,1,Pythagorean,Japanese,Japan,East Asia,Jap5,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0090,Silaba,2;2;1;2;2;2;1,N/A,1,Just,Kora,Many,Africa,Mal54,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0091,Tomora Mesengo,2;1;2;2;2;1;2,N/A,1,Just,Kora,Many,Africa,Mal54,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0092,Sauta,2;2;2;1;2;2;1,N/A,1,Just,Kora,Many,Africa,Mal54,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0093,Hardino,2;2;1;2;2;2;1,N/A,1,Just,Kora,Many,Africa,Mal54,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0094,Bilawal,2;2;1;2;2;2;1,N/A,1,12-tet;Just,Northern India,India,South Asia,Nor8,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0095,Kalyan,2;2;2;1;2;2;1,N/A,1,12-tet;Just,Northern India,India,South Asia,Nor8,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0096,Khamaj,2;2;1;2;2;1;2,N/A,1,12-tet;Just,Northern India,India,South Asia,Nor8,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0097,Khafi,2;1;2;2;2;1;2,N/A,1,12-tet;Just,Northern India,India,South Asia,Nor8,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0098,Asavari,2;1;2;2;1;2;2,N/A,1,12-tet;Just,Northern India,India,South Asia,Nor8,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0099,Bhairavi,1;2;2;2;1;2;2,N/A,1,12-tet;Just,Northern India,India,South Asia,Nor8,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0100,Purvi,1;3;2;1;1;3;1,N/A,1,12-tet;Just,Northern India,India,South Asia,Nor8,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0101,Todi,1;2;3;1;1;3;1,N/A,1,12-tet;Just,Northern India,India,South Asia,Nor8,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0102,Bhairav,1;3;1;2;1;3;1,N/A,1,12-tet;Just,Northern India,India,South Asia,Nor8,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0103,Marwa,1;3;2;1;2;2;1,N/A,1,12-tet;Just,Northern India,India,South Asia,Nor8,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0104,Mela Kanakangi,1;1;3;2;1;1;3,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0105,Mela Ratnangi,1;1;3;2;1;2;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0106,Mela Ganamurti,1;1;3;2;1;3;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0107,Mela Vanaspati,1;1;3;2;2;1;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0108,Mela Manavati,1;1;3;2;2;2;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0109,Mela Tanarupi,1;1;3;2;3;1;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0110,Mela Senavati,1;2;2;2;1;1;3,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0111,Mela Hanumatodi,1;2;2;2;1;2;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0112,Mela Dhenuka,1;2;2;2;1;3;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0113,Mela Natakapriya,1;2;2;2;2;1;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0114,Mela Kokilapriya,1;2;2;2;2;2;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0115,Mela Rupavati,1;2;2;2;1;3;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0116,Mela Gayakapriya,1;3;1;2;1;1;3,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0117,Mela Vakulabharanam,1;3;1;2;1;2;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0118,Mela Mayamalavagowla,1;3;1;2;1;3;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0119,Mela Chakravakam,1;3;1;2;2;1;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0120,Mela Suryakantam,1;3;1;2;2;2;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0121,Mela Hatakambari,1;3;1;2;3;1;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0122,Mela Jhankaradhwani,2;1;2;2;1;1;3,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0123,Mela Natabhairavi,2;1;2;2;1;2;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0124,Mela Keeravani,2;1;2;2;1;3;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0125,Mela Kharaharapriya,2;1;2;2;2;1;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0126,Mela Gourimanohari,2;1;2;2;2;2;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0127,Mela Varunapriya,2;1;2;2;3;1;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0128,Mela Mararanjani,2;2;1;2;1;1;3,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0129,Mela Charukesi,2;2;1;2;1;2;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0130,Mela Sarasangi,2;2;1;2;1;3;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0131,Mela Harikambhoji,2;2;1;2;2;1;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0132,Mela Dheerasankarabharanam,2;2;1;2;2;2;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0133,Mela Naganandini,2;2;1;2;3;1;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0134,Mela Yagapriya,3;1;1;2;1;1;3,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0135,Mela Ragavardhini,3;1;1;2;1;2;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0136,Mela Gangeyabhushani,3;1;1;2;1;3;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0137,Mela Vagadheeswari,3;1;1;2;2;1;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0138,Mela Shulini,3;1;1;2;2;2;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0139,Mela Chalanata,3;1;1;2;3;1;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0140,Mela Salagam,1;1;4;1;1;1;3,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0141,Mela Jalarnavam,1;1;4;1;1;2;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0142,Mela Jhalavarali,1;1;4;1;1;3;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0143,Mela Navaneetam,1;1;4;1;2;1;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0144,Mela Pavani,1;1;4;1;2;2;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0145,Mela Raghupriya,1;1;4;1;3;1;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0146,Mela Gavambhodi,1;2;3;1;1;1;3,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0147,Mela Bhavapriya,1;2;3;1;1;2;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0148,Mela Shubhapantuvarali,1;2;3;1;1;3;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0149,Mela Shadvidamargini,1;2;3;1;2;1;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0150,Mela Suvarnangi,1;2;3;1;2;2;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0151,Mela Divyamani,1;2;3;1;3;1;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0152,Mela Dhavalambari,1;3;2;1;1;1;3,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0153,Mela Namanarayani,1;3;2;1;1;2;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0154,Mela Kamavardani,1;3;2;1;1;3;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0155,Mela Ramapriya,1;3;2;1;2;1;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0156,Mela Gamanashrama,1;3;2;1;2;2;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0157,Mela Vishwambari,1;3;2;1;3;1;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0158,Mela Shamalangi,2;1;3;1;1;1;3,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0159,Mela Shanmukhapriya,2;1;3;1;1;2;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0160,Mela Simhendramadhyamam,2;1;3;1;1;3;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0161,Mela Hemavati,2;1;3;1;2;1;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0162,Mela Dharmavati,2;1;3;1;2;2;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0163,Mela Neetimati,2;1;3;1;3;1;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0164,Mela Kantamani,2;2;2;1;1;1;3,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0165,Mela Rishabhapriya,2;2;2;1;1;2;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0166,Mela Latangi,2;2;2;1;1;3;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0167,Mela Vachaspati,2;2;2;1;2;1;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0168,Mela Mechakalyani,2;2;2;1;2;2;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0169,Mela Chitrambari,2;2;2;1;3;1;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0170,Mela Sucharitra,3;1;2;1;1;1;3,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0171,Mela Jyoti Swarupini,3;1;2;1;1;2;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0172,Mela Dhatuvardani,3;1;2;1;1;3;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0173,Mela Nasikabhushani,3;1;2;1;2;1;2,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0174,Mela Kosalam,3;1;2;1;2;2;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0175,Mela Rasikapriya,3;1;2;1;3;1;1,N/A,1,Just,Carnatic,India,South Asia,Car9,,"M. J. Hewitt. Musical Scales of the World. Note Tree, 2013",1,N,Y,N/A
+T0176,Adonai Malakh,1;1;1;2;2;2;1;2,N/A,1,???,Jewish,Israel,Middle East,Jew10,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0177,Magen Abot 1,1;2;1;2;2;2;1;1,N/A,1,???,Jewish,Israel,Middle East,Jew10,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0178,Magen Abot 2,1;2;1;2;2;1;2;1,N/A,1,???,Jewish,Israel,Middle East,Jew10,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0179,Ahava Rabba,1;2;1;1;1;2;2;2,N/A,1,???,Jewish,Israel,Middle East,Jew10,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0180,Nine-note blues,2;1;1;1;1;1;2;1;2,N/A,1,12-tet,Jazz,Many,Western,Jaz4,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0181,Symmetrical Decatonic,1;1;2;1;1;1;1;2;1;1,N/A,1,12-tet,Western Classical,Many,Western,Wes1,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0182,Mawam Yakah Bayati,4;3;3;4;4;3;3,4;3;3;4;3;3;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0183,Maqam Yakah Nahawand,4;3;3;4;4;3;3,4;3;3;4;4;2;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0184,Maqam Sultani Yakah,4;2;4;4;2;6;2,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0185,Maqam Farahfaza,4;2;4;4;2;4;4,4;2;4;4;2;6;2,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0186,Maqam Shat Arban 1,2;6;2;4;2;6;2,2;6;2;4;2;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0187,Maqam Shat Arban 2,3;5;2;4;2;6;2,3;5;2;4;2;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0188,Maqam Husayni Ushayran,3;3;4;3;3;4;4,3;3;4;2;6;2;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0189,Maqam Bayati Ushayran,3;3;4;3;3;4;4,3;3;4;4;2;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0190,Maqam Shawq Tarab,2;4;4;3;3;2;6,2;4;4;2;4;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0191,Maqam Nahaft,3;3;4;4;4;2;4,3;3;4;3;3;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0192,Maqam Suzdal,2;6;2;4;2;6;2,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0193,Maqam Ajam Ushayran,4;4;2;4;4;4;2,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0194,Maqam Shawq Afza,4;4;2;4;2;6;2,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0195,Maqam Shawq Awr,4;4;4;2;4;4;2,4;4;2;4;4;2;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0196,Maqam Iraq,3;4;3;3;4;4;3,3;4;3;3;4;4;2;1,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0197,Maqam Awj Ara,3;6;1;5;2;6;1,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0198,Maqam Rahat Al-arwah,3;4;2;6;2;4;3,3;4;2;6;2;4;2;1,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0199,Maqam Farahnak,3;4;4;3;3;4;3,3;4;4;3;3;4;2;1,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0200,Maqam Rast,4;3;3;4;4;3;3,4;3;3;4;4;2;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0201,Maqam Suznak,4;3;3;4;3;5;2,4;3;3;4;4;2;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0202,Maqam Nayruz,4;3;3;4;3;3;4,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0203,Maqam Nahawand,4;2;4;4;2;6;2,4;2;4;4;2;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0204,Maqam Nahawand Murassa,4;2;4;2;6;2;4,4;2;4;2;4;6;2,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0205,Maqam Nahawand Kabir,4;2;4;4;2;6;2,4;2;4;4;4;2;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0206,Maqam Nawa'athar,4;2;6;2;2;6;2,4;2;4;4;4;2;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0207,Maqam Nakriz,4;2;6;2;4;2;4,4;2;6;2;4;3;3,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0208,Maqam Zankulah,2;6;2;4;4;2;4,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0209,Maqam Hijaz Kar Kurd,2;6;2;4;2;6;2,2;4;4;4;2;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0210,Maqam Athar Kurd,2;4;6;2;2;6;2,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0211,Maqam Hijaz Kar,2;6;2;4;2;6;2,2;6;2;4;2;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0212,Maqam Suzdilara 1,4;4;2;4;4;2;4,4;3;3;4;4;2;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0213,Maqam Suzdilara 2,4;4;2;4;4;3;3,4;3;3;4;4;2;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0214,Maqam Basandida,4;2;6;2;4;2;4,4;3;3;4;4;3;3,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0215,Maqam Tarz Nawayn,2;4;4;2;6;2;4,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0216,Maqam Mahur,4;3;3;4;4;4;2,4;3;3;4;4;2;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0217,Maqam Dalanshin,4;3;3;4;4;3;3;2;6;2,4;3;3;4;4;2;4;4;3;3,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0218,Maqam Bayati,3;3;4;4;3;3;4,3;3;4;4;2;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0219,Maqam Bayati Shuri,3;3;4;2;6;2;4,3;3;4;4;2;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0220,Maqam Bayatayn,3;3;4;3;5;2;4,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0221,Maqam Husayni,3;3;4;4;3;3;4,3;3;4;4;2;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0222,Maqam Hijaz,2;6;2;4;3;3;4,2;6;2;4;2;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0223,Maqam Hijaz Gharib,3;4;3;4;3;3;4,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0224,Maqam Saba,3;3;2;6;2;4;4,3;3;2;6;2;4;2;2,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0225,Maqam Saba Zamzama,2;4;2;6;2;4;4,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0226,Maqam Saba Busalik,4;2;2;6;2;4;3;1,4;2;2;6;2;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0227,Maqam Sabr Jadid,3;3;2;6;2;6;2,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0228,Maqam Kurd,2;4;4;4;2;4;4,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0229,Maqam Ushaq Masri,4;2;4;4;3;3;4,4;2;4;4;2;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0230,Maqam Busalik 1,4;2;4;4;2;4;4;4;2;4;4;2;6;2,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0231,Maqam Hisar 1,4;2;6;2;2;6;2,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0232,Maqam Hisar 2,3;3;6;2;2;6;2,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0233,Maqam Shahnaz,2;6;2;4;2;6;2,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0234,Maqam Nishaburk,4;3;3;4;3;3;4,4;3;3;4;2;4;4,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0235,Maqam Lami,2;4;4;2;4;4;4,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0236,Maqam Sikah,3;4;4;3;3;4;3,3;4;4;2;4;4;3,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0237,Maqam Huzam,3;4;2;6;2;4;3,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0238,Maqam Musta'ar,5;2;4;2;4;4;3,3;4;4;2;4;4;3,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0239,Maqam Mayyah,3;4;4;2;4;4;3,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0240,Maqam Jaharkah,4;4;2;4;4;3;3,N/A,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0241,Maqam Sikah Baladi,2;6;2;4;2;6;2,3;4;3;4;3;4;3,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0242,Maqam Awj,3;4;3;3;4;4;3,3;4;2;4;4;4;3,1,24-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0243,Dastgah-e Shur,2;2;3;3;1;3;3,N/A,1,Dastgah-ha,Persian,Iran,Middle East,Per12,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0244,Naghmeh Abu Ata,2;3;3;1;3;3;2,N/A,1,Dastgah-ha,Persian,Iran,Middle East,Per12,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0245,Naghmeh Bayat-e Tork,3;3;1;3;3;2;2,N/A,1,Dastgah-ha,Persian,Iran,Middle East,Per12,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0246,Dastgah-e Mahur,3;3;1;3;3;3;1,N/A,1,Dastgah-ha,Persian,Iran,Middle East,Per12,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0247,Dastgah-e Mahur Delkash,3;3;1;3;2;3;2,N/A,1,Dastgah-ha,Persian,Iran,Middle East,Per12,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0248,Dastgah-e Homayun,2;4;1;3;1;3;3,N/A,1,Dastgah-ha,Persian,Iran,Middle East,Per12,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0249,Bayat-e Esfahan,3;1;3;3;2;4;1,N/A,1,Dastgah-ha,Persian,Iran,Middle East,Per12,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0250,Nagmeh Esfahan,3;2;2;3;2;2;2;1,N/A,1,Dastgah-ha,Persian,Iran,Middle East,Per12,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0251,Dastgah-e Sehgah 1,2;3;2;2;3;3;2,N/A,1,Dastgah-ha,Persian,Iran,Middle East,Per12,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0252,Dastgah-e Sehgah 2,3;2;2;3;2;2;3,N/A,1,Dastgah-ha,Persian,Iran,Middle East,Per12,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0253,Dastgah-e Chahargah,2;4;1;3;2;4;1,N/A,1,Dastgah-ha,Persian,Iran,Middle East,Per12,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0254,Dastgah-e Nava,3;1;3;3;2;2;3,N/A,1,Dastgah-ha,Persian,Iran,Middle East,Per12,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0255,Cargah Makam,T;T;B;T;T;T;B,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0256,Buselik Makam 1,T;B;T;T;B;A;S,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0257,Buselik Makam 2,T;B;T;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0258,Buselik Makam 3,N/A,T;B;T;S;A;S;T,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,"This is presented as an �â��alternative descending form�â��, but without specifying which of the other two Buselik Maqam it is used with. Due to the ambiguity, I keep it as a separate entry."
+T0259,Buselik Makam 4,S;A;S;T;B;T;T;B;T;T;T;B;T;T,N/A,4,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0260,Rast Makam,T;K;S;T;T;K;S,T;K;S;T;T;B;T,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0261,Ussak Makam 1,K;S;T;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0262,Ussak Makam 2,T;K;S;T;K;S;T;T;B;T;T;K;S;T,N/A,4,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0263,Hicaz Makam 1,S;A;S;T;K;S;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0264,Hicaz Makam 2,S;A;S;T;K;S;T,S;A;S;T;B;T;T,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0265,Hicaz Makam 3,T;K;S;T;S;A;S;T;K;S;T;T;B;T,N/A,5,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0266,Humayun Makam 1,S;A;S;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0267,Humayun Makam 2,S;A;S;T;B;T;T,S;A;S;T;K;S;T,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0268,Uzzal Makam 1,S;A;S;T;K;S;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0269,Uzzal Makam 2,S;A;S;T;K;S;T;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0270,Uzzal Makam 3,S;A;S;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0271,Uzzal Makam 4,S;A;S;T;S;A;S,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0272,Zirguleli Makam 1,S;A;S;T;S;A;S,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0273,Zirguleli Makam 2,S;A;S;T;S;A;S;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0274,Neva Makam 1,K;S;T;T;K;S;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0275,Neva Makam 2,K;S;T;T;K;S;T,K;S;T;T;B;T;T,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0276,Huseyni Makam 1,K;S;T;T;K;S;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0277,Huseyni Makam 2,K;S;T;T;K;S;T,K;S;T;T;B;T;T,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0278,Huseyni Makam 3,K;S;T;T;K;S;T;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0279,Karcigar Makam 1,K;S;T;S;A;S;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0280,Karcigar Makam 2,K;S;T;S;A;S;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0281,Basit Suz-nak Makam 1,T;K;S;T;S;A;S,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0282,Basit Suz-nak Makam 2,T;K;S;T;S;A;S;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0283,Kurdi Makam,B;T;T;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0284,Bayati Makam,K;S;T;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0285,Muhayyer Makam 1,K;S;T;T;K;S;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0286,Muhayyer Makam 2,K;S;T;T;K;S;T;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0287,Tahir Makam 1,K;S;T;T;K;S;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0288,Tahir Makam 2,K;S;T;T;K;S;T;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0289,Sehnaz Buselik Makam 1,T;B;T;T;B;A;S,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0290,Sehnaz Buselik Makam 2,T;B;T;T;B;A;S;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0291,Irak Makam 1,S;T;K;S;T;T;K,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0292,Irak Makam 2,S;A;B;S;T;K;S;T;T;K,N/A,4,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,The upper octave extension didn�â��t make any sense here.
+T0293,Bestenigar Makam,S;T;K;S;S;A;B;T;S,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0294,Nikriz Makam 1,T;S;A;S;T;K;S,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0295,Nikriz Makam 2,T;S;A;S;T;K;S,T;S;A;S;T;B;T,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0296,Nev'eser Makam,T;S;A;S;S;A;S,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0297,Saba Makam 1,K;S;S;A;B;T;S;A;S,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0298,Saba Makam 2,K;S;S;A;B;T;S;A;S;K;S;S;A,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0299,Saba Zemzeme Maqam,K;S;S;A;B;T;S;A;S,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0300,Huzzam Makam 1,S;T;S;A;S;A;B,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0301,Huzzam Makam 2,S;A;S;T;B;T;T,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0302,Segah Makam,S;T;K;T;S;A;B,N/A,1,Turkish,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0303,Bac,2;4;2;2;3,N/A,1,Vietnamese,Vietnam,Vietnam,South East Asia,Vie14,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0304,Ho Mai Nhi,1;6;1;1;4,N/A,1,Vietnamese,Vietnam,Vietnam,South East Asia,Vie14,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0305,Xuan Ho,2;1;5;2;3,N/A,1,Vietnamese,Vietnam,Vietnam,South East Asia,Vie14,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0306,Thien,3;3;2;3;2,N/A,1,Vietnamese,Vietnam,Vietnam,South East Asia,Vie14,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0307,Ai,3;4;1;2;3,N/A,1,Vietnamese,Vietnam,Vietnam,South East Asia,Vie14,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0308,Sa Mac,4;4;4;1,N/A,1,Vietnamese,Vietnam,Vietnam,South East Asia,Vie14,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0309,Ai-oan,1;6;1;2;3,4;3;1;4;1,1,Vietnamese,Vietnam,Vietnam,South East Asia,Vie14,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0311,Vong co,1;6;1;2;3,5;2;1;4;1,1,Vietnamese,Vietnam,Vietnam,South East Asia,Vie14,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0313,Youlan,1;1;2;1;1;1;2;1;2,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0314,In,3;1;1;2;3;1;1,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0315,Honchoshi,1;4;2;1;2;2,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0316,Plagal Honchoshi,1;2;2;1;3;1;2,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0317,Gagaku Ritsu,2;3;2;2;3,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0318,Hexatonic Ritsu,1;2;2;3;2;2,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0319,Banshikicho,2;1;2;2;2;1;2,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0320,Ichikotsucho 1,2;2;1;1;1;2;2;1,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0321,Ichikotsucho 2,2;2;1;1;1;2;1;1;1,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0322,Hira-choshi,2;1;4;1;4,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0323,Yona-nukji Major,2;2;3;2;3,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0324,Iwato-choshi,1;2;2;1;4;2,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0325,Akikaze-choshi,2;1;4;2;3,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0326,Kokin-joshi,1;4;2;3;2,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0327,Miyako-bushi Onkai,1;1;3;2;1;1;3,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0328,Han Kumoi-joshi,2;3;2;1;4,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0329,Akebono 1,2;1;4;2;3,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0330,Akebono 2,1;4;2;1;4,N/A,1,12-tet;Pythagorean,Japanese,Japan,East Asia,Jap5,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0331,Biyu,3;4;3;2,N/A,1,Chinese,China,China,East Asia,Chi15,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0332,Jiao,2;3;3;2;2,N/A,1,Chinese,China,China,East Asia,Chi15,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0333,Jin,3;3;2;2;2,N/A,1,Chinese,China,China,East Asia,Chi15,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0334,Huowu,2;3;2;2;2;1,N/A,1,Chinese,China,China,East Asia,Chi15,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0335,Pyeongjo,2;3;2;3;2,N/A,1,Chinese,Korea,China,East Asia,Kor16,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0336,Kyemyeonjo,3;2;3;2;2,N/A,1,Chinese,Korea,China,East Asia,Kor16,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0337,Gong,2;2;3;2;3,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0338,Shang,2;3;2;3;2,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0339,Jue,3;2;3;2;2,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0340,Zhi,2;3;2;2;3,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0341,Yu,3;2;2;3;2,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0342,Yayue,2;2;2;1;2;2;1,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0343,Qingyue,2;2;1;2;2;2;1,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0344,Yanyue,2;2;1;2;2;1;2,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0345,Shanxi,2;2;1;2;3;2,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0346,Shanxi bangzi,2;2;1;2;2;1;2,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0347,Xinhua,4;3;2;3,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0348,Guizhou,2;3;2;2;1;2,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0349,Bai,2;2;1;2;4;1,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0350,Yunnan,3;2;4;1;2,N/A,1,Chinese,China,China,East Asia,Chi15,,"Ho Lu-Ting and Han Kuo-huang. On chinese scales and national modes. Asian Music, 14(1):132-154, 1982. doi: 10.2307/ 834047",19,Y,Y,N/A
+T0182,Mawam Yakah Bayati,9;7;6;9;6;7;9,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0183,Maqam Yakah Nahawand,9;4;9;9;4;14;4,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0185,Maqam Farahfaza,9;4;9;9;4;9;9,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0186,Maqam Shat Arban 1,5;13;4;9;7;6;9,5;13;4;9;4;9;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0188,Maqam Husayni Ushayran,6;7;9;6;7;9;9,6;7;9;4;14;4;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0189,Maqam Bayati Ushayran,6;7;9;6;7;9;9,6;7;9;9;4;9;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0338,Maqam Shawq Tarab,4;9;9;6;7;4;14,9;9;9;4;9;9;4,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0192,Maqam Suzdal,4;14;4;9;4;14;4,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0193,Maqam Ajam Ushayran,9;9;4;9;9;9;4,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0194,Maqam Shawq Afza,9;9;6;7;4;14;4,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0196,Maqam Iraq,6;9;6;7;9;9;7,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0197,Maqam Awj Ara,6;14;2;11;4;14;2,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0199,Maqam Farahnak,6;9;9;7;6;9;7,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0200,Maqam Rast,9;7;6;9;9;7;6,9;7;6;9;9;4;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0201,Maqam Suznak,9;7;6;9;5;13;4,9;4;9;9;6;7;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0203,Maqam Nahawand,9;4;9;9;4;9;9,9;4;9;9;4;14;4,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0204,Maqam Nahawand Murassa,9;4;9;4;14;4;9,9;4;9;9;4;14;4,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0205,Maqam Nahawand Kabir,9;4;9;9;9;4;9,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0206,Maqam Nawa'athar,9;4;14;4;4;14;4,9;4;14;4;4;9;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0207,Maqam Nakriz,9;4;14;4;9;4;9,9;4;14;4;9;7;6,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0208,Maqam Zankulah,4;14;4;9;9;4;9,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0209,Maqam Hijaz Kar Kurd,4;14;4;9;4;14;4,4;9;9;9;4;9;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0211,Maqam Hijaz Kar,4;14;4;9;4;14;4,4;14;4;9;4;9;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0212,Maqam Suzdilara 1,9;9;4;9;9;4;9,9;7;6;9;9;4;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0214,Maqam Basandida,9;4;14;4;9;4;9,9;7;6;9;9;7;6,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0215,Maqam Tarz Nawayn,4;9;9;4;14;4;9,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0216,Maqam Mahur,9;9;4;9;9;9;4,9;7;6;9;9;4;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0217,Maqam Dalanshin,9;7;6;9;9;7;6,9;7;6;9;9;4;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0218,Maqam Bayati,6;7;9;9;6;7;9,6;7;9;9;4;9;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0219,Maqam Bayati Shuri,6;7;9;4;14;4;9,6;7;9;9;4;9;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0221,Maqam Husayni,6;7;8;8;6;7;9,6;7;9;9;4;9;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0222,Maqam Hijaz,5;13;4;9;7;6;9,4;13;4;9;4;14;4,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0224,Maqam Saba,6;7;4;14;4;9;9,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0225,Maqam Saba Zamzama,4;9;4;14;4;9;9,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0228,Maqam Kurd,4;9;9;9;4;9;9,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0231,Maqam Hisar 1,6;7;14;4;4;14;4,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0232,Maqam Hisar 2,6;7;14;4;4;14;4,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0233,Maqam Shahnaz,4;14;4;9;4;14;4,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0234,Maqam Nishaburk,9;7;6;9;6;7;9,9;7;6;9;4;9;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0236,Maqam Sikah,6;9;9;7;6;9;7,6;9;9;4;9;9;7,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0237,Maqam Huzam,6;9;4;14;4;9;7,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0238,Maqam Musta'ar,11;4;9;4;9;9;7,11;4;9;4;9;9;7,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0239,Maqam Mayyah,6;9;9;4;9;9;7,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0240,Maqam Jaharkah,9;9;4;9;9;7;6,N/A,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0242,Maqam Awj,9;9;9;4;9;9;4,9;9;4;9;9;4;9,1,53-tet,Arabic,Many,Middle East,Ara11,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0255,Cargah Makam,9;9;4;9;9;9;4,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0256,Buselik Makam 1,9;4;9;9;4;13;5,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0257,Buselik Makam 2,9;4;9;9;4;9;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0258,Buselik Makam 3,9;4;9;5;12;5;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0260,Rast Makam,9;8;5;9;9;8;5,9;8;5;9;9;4;9,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0261,Ussak Makam,8;5;9;9;4;9;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0263,Hicaz Makam 1,5;12;5;9;8;5;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0264,Hicaz Makam 2,5;12;5;9;4;9;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0266,Humayun Makam 1,5;12;5;9;4;9;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0267,Humayun Makam 2,5;12;5;9;8;5;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0268,Uzzal Makam 1,5;12;5;9;8;5;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0269,Uzzal Makam 3,5;12;5;9;4;9;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0270,Uzzal Makam 4,5;12;5;9;5;12;5,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0272,Zirguleli Makam,5;12;5;9;5;12;5,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0274,Neva Makam,8;5;9;9;8;5;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0276,Huseyni Makam,8;5;9;9;8;5;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0279,Karcigar Makam,8;5;9;5;12;5;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0281,Basit Suz-nak Makam,9;8;5;9;5;12;5,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0283,Kurdi Makam,4;9;9;9;4;9;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0284,Bayati Makam,8;5;9;9;4;9;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0459,Muhayyer Makam,8;5;9;9;8;5;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0287,Tahir Makam,8;5;9;9;8;5;9,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0289,Sehnaz Buselik Makam,9;4;9;9;4;13;5,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0291,Irak Makam,5;9;8;5;9;9;8,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0293,Bestenigar Makam,5;9;8;5;5;12;4;9;5,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0294,Nikriz Makam,9;5;12;5;9;8;5,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0296,Nev'eser Makam,9;5;12;5;5;12;5,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0297,Saba Makam,8;5;12;4;9;5;13;5,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0299,Saba Zemzeme Maqam,8;5;5;12;4;9;5;13;5,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,N,N/A
+T0300,Huzzam Makam,5;9;5;13;5;12;4,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0302,Segah Makam,5;9;8;9;5;13;4,N/A,1,53-tet,Turkish,Turkey,Middle East,Tur13,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,N/A
+T0303,Bac Dan Tranh,182;316;204;182;316,N/A,1,Cents,Vietnam,Vietnam,South East Asia,Vie14,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,"Although not noted as such, these 4 seem like �â��theory�â�� scales; the intervals are too regular, and indentical to small-integer ratio intervals (e.g. 498, 702 and 1200 cents)"
+T0351,Dan Ca Dan Tranh,182;98;422;182;316,N/A,1,Cents,Vietnam,Vietnam,South East Asia,Vie14,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,"Although not noted as such, these 4 seem like �â��theory�â�� scales; the intervals are too regular, and indentical to small-integer ratio intervals (e.g. 498, 702 and 1200 cents)"
+T0308,Sa Mac Dan Tranh,335;163;204;325;109;64,N/A,1,Cents,Vietnam,Vietnam,South East Asia,Vie14,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,"Although not noted as such, these 4 seem like �â��theory�â�� scales; the intervals are too regular, and indentical to small-integer ratio intervals (e.g. 498, 702 and 1200 cents)"
+T0352,Vong Co Dan Tranh,165;207;148;182;165;170;163,N/A,1,Cents,Vietnam,Vietnam,South East Asia,Vie14,,"H. Rechberger. Scales and Modes Around the World: The Complete Guide to the Scales and Modes of the World. Fennica Gehrman Ltd., 2018",2,N,Y,"Although not noted as such, these 4 seem like �â��theory�â�� scales; the intervals are too regular, and indentical to small-integer ratio intervals (e.g. 498, 702 and 1200 cents)"
+T0353,Ochaq,204;204;90;204;204;90;204,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0354,Nawa,204;90;204;204;204;90;204,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0355,Bousilik,90;204;204;90;204;204;204,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0356,Rast,204;180;114;204;180;114;204,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0357,Iraq 1,180;204;114;180;204;114;204,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0358,Iraq 2,180;204;114;180;204;114;180,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0359,Irfahan 1,180;204;114;204;180;114;204,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0360,Irfahan 2,180;204;114;204;180;114;180,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0361,Zirafkend,180;114;204;180;114;90;204;114,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0362,Bouzourk,180;204;114;180;24;204;180;114,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0363,Zenkouleh,204;180;114;180;204;114;204,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0364,Rahawi,180;204;114;180;114;204;204,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0365,Ilhosaini,180;114;204;180;228;90;204,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0366,Ilhidjazi,180;114;204;180;204;114;204,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0367,Shed Araban,100;100;200;100;200;100;200;200,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0368,Araq,350;150;200;150;150;200,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0369,Araq Zemzemy,200;100;200;200;150;150;200,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0370,Rahhat el Arwahh,350;150;200;100;300;100,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0371,Remel,200;150;150;200;150;100;150;100,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0372,Nikriz,200;300;200;150;250;100,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0373,Nishawerk,500;200;200;200;100,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0374,Penjgah,200;150;150;200;150;50;100;100;100,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0375,Sadhkar el muta’arif,200;150;150;200;200;100;200,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0376,Ilhejaskar,200;100;400;150;250;100,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0377,Shawerk of the Egyptians,300;200;200;150;150;200,N/A,1,Cents,Arabic,Many,Middle East,Ara11,,"A. J. Ellis. On the Musical Scales of Various Nations. Journal of the Society of arts, 1885",3,N,Y,N/A
+T0378,First,10;8;12;12;10;8;12,N/A,1,72-tet,Byzantine,Many,Western,Byz95,,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205-221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Y,N/A
+T0379,First Plagal,10;8;12;12;10;8;12,N/A,1,72-tet,Byzantine,Many,Western,Byz95,,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205-221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Y,"Equivalent to �â��First�â��, but added for completeness. The Plagal version starts a fifth lower, and differs in melodic characteristics."
+T0380,Second,8;14;8;12;8;14;8,N/A,1,72-tet,Byzantine,Many,Western,Byz95,,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205-221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Y,N/A
+T0381,Second Plagal,6;20;4;12;6;20;4,N/A,1,72-tet,Byzantine,Many,Western,Byz95,,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205-221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Y,N/A
+T0382,Third,12;12;6;12;12;12;6,N/A,1,72-tet,Byzantine,Many,Western,Byz95,,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205-221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Y,N/A
+T0383,Grave,12;12;6;12;12;12;6,N/A,1,72-tet,Byzantine,Many,Western,Byz95,,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205-221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Y,"Equivalent to �â��Third�â��, but added for completeness. The Plagal version starts a fifth lower, and differs in melodic characteristics."
+T0384,Fourth,8;12;12;10;8;12;10,N/A,1,72-tet,Byzantine,Many,Western,Byz95,,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205-221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Y,N/A
+T0385,Fourth Plagal,12;10;8;12;12;10;8,N/A,1,72-tet,Byzantine,Many,Western,Byz95,,"Maria Panteli and Hendrik Purwins. A quantitative comparison of chrysanthine theory and performance practice of scale tuning, steps, and prominence of the octoechos in byzantine chant. J. New Music Res., 42(3):205-221, 2013. doi: 10.1080/09298215. 2013.827215",60,N,Y,N/A

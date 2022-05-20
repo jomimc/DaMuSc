@@ -1,9 +1,9 @@
-+ACM-,+ACI-Reasons for not using sources / scales, and other notes+ACI-
-1,+ACI-Exclude if:  it is impossible to extract details about the exact tuning, as measured in Hz or cents.+ACI-
-2,+ACI-Exclude if:  instrument tunings are present, but in a non+AC0-coherent order (mix of ascending and descending).+ACI-
-3,Exclude if:  only contains +IBg-theory+IBk- scales that are confirmed to already exist in the database.
-4,Exclude if:  ambiguity in scale when a frequency range is reported for a note instead of a single value.
-5,+ACI-Exclude if: data is reported in figures, but not in tables.+ACI-
-6,+ACI-Exclude if:  chromatic scales (e.g. 12+AC0-TET, 24+AC0-TET, etc.) are considered whole tuning systems, and not indicative of scales as they are played. There is also the possibility that this is true for other tunings that we find (e.g. 7+AC0-TET), but do not assume differences between tuning systems and scales unless there is evidence.+ACI-
-7,Tonic is inferred as the first note in a scale in a demonstration by a performer.
-8,Same set of intervals starting on a different fundamental frequency are considered equivalent. i.e. exclude transposed versions of the same scale.
+Reasons for not using sources / scales and other notes.
+Exclude if: it is impossible to extract details about the exact tuning as measured in Hz or cents.
+Exclude if: instrument tunings are present but in a non-coherent order (mix of ascending and descending).
+Exclude if: only contains `theory' scales that are confirmed to already exist in the database.
+Exclude if: ambiguity in scale when a frequency range is reported for a note instead of a single value.
+Exclude if: data is reported in figures but cannot be reliably extracted.
+Exclude if: chromatic scales (e.g. 12-TET; 24-TET; etc.) are considered whole tuning systems and not indicative of scales as they are played. There is also the possibility that this is true for other tunings that we find (e.g. 7-TET); such tuning systems (7 or fewer notes) are plausibly used as scales so we include them unless there is evidence to support the contrary.
+Tonic is inferred as the first note in a scale in a demonstration by a performer.
+Same set of intervals starting on a different fundamental frequency are considered equivalent. i.e. exclude transposed versions of the same scale.
