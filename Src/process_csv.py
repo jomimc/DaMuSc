@@ -7,7 +7,7 @@ import pandas as pd
 import tuning_system
 import utils
 
-PATH_BASE = [p for p in [Path.cwd()] + list(Path.cwd().parents) if p.name == 'ScalesDatabase'][0]
+PATH_BASE = [p for p in [Path.cwd()] + list(Path.cwd().parents) if p.name == 'DaMuSc'][0]
 PATH_DATA = PATH_BASE.joinpath("Data")
 
 
