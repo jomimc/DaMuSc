@@ -142,12 +142,13 @@ def extract_scale_from_measurement(row, oct_cut=OCT_CUT, use_specified_variants=
 
     # If the entry includes information on tonality, and if
     # not using all possible variants, follow the instructions given.
-    # If use_all_variant == True, then this avoids double-counting
+    # This avoids double-counting in case use_all_variant == True
     if not use_all_variants:
         if eval_tonic(row.Tonic):
             for scale in extract_scale_using_tonic(ints, row.Tonic, oct_cut):
                 if abs(1200 - scale[-1]) <= oct_cut:
                     yield scale
+            return
 
 
     if sum(ints) >= (1200 - oct_cut):

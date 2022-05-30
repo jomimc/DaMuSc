@@ -62,7 +62,7 @@ def process_theory_scales(use_all_variants=False, use_compound=False):
 def process_measured_scales(oct_cut=50, use_specific_variants=True, use_all_variants=False):
     df = pd.read_csv(PATH_DATA.joinpath('measured_scales.csv'))
     df.Intervals = df.Intervals.apply(utils.str_to_ints)
-    cols_to_keep = ['MeasuredID', 'Name', 'Culture', 'Region', 'Country', 'SocID', 'Measured_type']
+    cols_to_keep = ['MeasuredID', 'Name', 'Culture', 'Region', 'Country', 'SocID', 'Measured_type', 'Inst_type']
     new_cols = ['ScaleID'] + ['n_notes', 'scale', 'step_intervals', 'tonic_intervals', 'all_intervals'] + cols_to_keep
     df_new = pd.DataFrame(columns=new_cols)
     for row in df.itertuples():
