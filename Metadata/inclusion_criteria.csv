@@ -1,6 +1,5 @@
 Reasons for not using sources / scales and other notes.
 Exclude if: it is impossible to extract details about the exact tuning as measured in Hz or cents.
-Exclude if: instrument tunings are present but in a non-coherent order (mix of ascending and descending).
 Exclude if: only contains `theory' scales that are confirmed to already exist in the database.
 Exclude if: ambiguity in scale when a frequency range is reported for a note instead of a single value.
 Exclude if: data is reported in figures but cannot be reliably extracted.
