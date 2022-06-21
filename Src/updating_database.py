@@ -36,7 +36,7 @@ def fix_rows(df, cols):
 
 def updating_societies(df):
     soc = pd.read_csv('soceitiesw_metadata.csv')
-    cult_key = {k:v for k, v in zip(soc['Name.x'], soc.ID)}
+    cult_key = {k:v for k, v in zip(soc['Name.Scale'], soc.ID)}
     cult_key.update({'Bapere':'Bap25',
                      'Hindustani':'Nor8',
                      'Burma':'Mya29',
