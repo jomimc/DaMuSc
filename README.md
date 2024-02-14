@@ -54,3 +54,8 @@ Requirements:
 Python3.7
 Numpy
 Pandas
+
+## Citing DaMuSc
+If you use this database in your work, please cite as, "McBride JM, Passmore S, Tlusty T (2023) Convergent evolution in a large cross-cultural database of musical scales. PLoS ONE 18(12): e0284851. [https://doi.org/10.1371/journal.pone.0284851](https://doi.org/10.1371/journal.pone.0284851)"
+
+All scales are associated with a primary or secondary source, so it is encouraged to also cite sources individual scales when appropriate.
