@@ -32,7 +32,11 @@ Descriptions of data columns.
 Guide to decisions made about including / excluding data or sources from the database.
 
 
-## Code for processing scales
+## Code for processing scales to extract octave scales
+
+Scales are often defined within a single octave, such that they have a somewhat circular structure. While this is commonplace in many societies, we do not assume automatically that all scales must exhibit this property. For scales that are played in this way, and exhibit octave equivalence, we use the term "octave scales". Code is provided to infer octave scales from measured scales, and to assign exact tuning values to music-theoretic scales that can be played in different intonations.
+
+For the measured scales, we often do not have a clear idea of which note is the tonic, or even whether the concept of tonic is relevant for a specific scale.
 
 ### Src/process_csv.py
 
@@ -58,4 +62,4 @@ Pandas
 ## Citing DaMuSc
 If you use this database in your work, please cite as, "McBride JM, Passmore S, Tlusty T (2023) Convergent evolution in a large cross-cultural database of musical scales. PLoS ONE 18(12): e0284851. [https://doi.org/10.1371/journal.pone.0284851](https://doi.org/10.1371/journal.pone.0284851)"
 
-All scales are associated with a primary or secondary source, so it is encouraged to also cite sources individual scales when appropriate.
+All scales are associated with a primary or secondary source, so it is encouraged to also cite sources of individual scales when appropriate.
