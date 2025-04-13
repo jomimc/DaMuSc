@@ -2,7 +2,7 @@
 
 The purpose of this database is to collect musical scales that are found in societies across the world.
 
-For those who are interested in an exhaustive list of microtonal scales for composing, the [Scala database](https://www.huygens-fokker.org/scala/) is more suitable. Scala files for the scales in DaMuSc can be found at [here](https://github.com/narenratan/scale-library)
+For those who are interested in an exhaustive list of microtonal scales for composing, the [Scala database](https://www.huygens-fokker.org/scala/) is more suitable. Scala files for the scales in DaMuSc can be found [here](https://github.com/narenratan/scale-library). If you wish to hear what the scales sound like, you can use [Leimma](https://isartum.net/leimma).
 
 At the moment, the majority of the scales are theory scales (scales with exact theoretical values for scale degrees), and measurements of instrument tunings. About 10% of measured data comes from computational analysis of recordings. We hope to add scales as they are measured in ongoing work. Anyone interested in contributing scales to DaMuSc should prepare them in the format shown in "example_scales.csv".
 
