@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 *.Rproj
+__pycache__/
+*.pyc
+scales_database.xlsx
